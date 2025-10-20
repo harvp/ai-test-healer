@@ -1,0 +1,23 @@
+<xml version="1.0" encoding="UTF-8"?>
+<testResults>
+    <testCase>
+        <name>Test Case 1</name>
+        <status>FAILED</status>
+        <error>
+            <message>XPath not found</message>
+            <details>Element with XPath '//div[@id="nonexistent"]' could not be located.</details>
+        </error>
+    </testCase>
+    <testCase>
+        <name>Test Case 2</name>
+        <status>PASSED</status>
+    </testCase>
+    <testCase>
+        <name>Test Case 3</name>
+        <status>FAILED</status>
+        <error>
+            <message>Timeout Exception</message>
+            <details>Test case exceeded the maximum wait time of 30 seconds.</details>
+        </error>
+    </testCase>
+</testResults>
