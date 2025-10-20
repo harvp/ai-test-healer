@@ -1,29 +1,25 @@
-# This file will contain the main logic for analyzing test results, identifying failure causes, and suggesting fixes.
+# src/healer.py
+import openai
+from dotenv import load_dotenv
+import os
 
-class AI_Test_Healer:
-    def __init__(self):
-        self.test_results = None
+load_dotenv()
 
-    def load_test_results(self, file_path):
-        # Logic to load and parse test results from the specified file
-        pass
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
-    def analyze_results(self):
-        # Logic to analyze the loaded test results
-        pass
+##def suggest_fix(failure_message):
+##    prompt = f"""
+##    The following test failed in an automated UI test:
+##    "{failure_message}"
+##    Explain what likely caused this failure and how to fix it in the script.
+##    """
+##    response = openai.ChatCompletion.create(
+##        model="gpt-4o-mini",
+##        messages=[{"role": "user", "content": prompt}],
+##    )
+##    return response.choices[0].message.content.strip()
 
-    def identify_failure_causes(self):
-        # Logic to identify common failure causes
-        pass
 
-    def suggest_fixes(self):
-        # Logic to suggest fixes for identified issues
-        pass
-
-    def apply_fixes(self):
-        # Logic to apply suggested fixes to test scripts
-        pass
-
-if __name__ == "__main__":
-    healer = AI_Test_Healer()
-    print("AI Test Healer initialized.")
+def suggest_fix(failure_message):
+    # TEMPORARY MOCK for testing without hitting API
+    return f"[MOCK FIX] Likely cause of failure: {failure_message.split(':')[1].strip()} (AI suggestion would go here)"

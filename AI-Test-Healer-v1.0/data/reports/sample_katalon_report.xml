@@ -1,23 +1,11 @@
-<xml version="1.0" encoding="UTF-8"?>
-<testResults>
-    <testCase>
-        <name>Test Case 1</name>
-        <status>FAILED</status>
-        <error>
-            <message>XPath not found</message>
-            <details>Element with XPath '//div[@id="nonexistent"]' could not be located.</details>
-        </error>
-    </testCase>
-    <testCase>
-        <name>Test Case 2</name>
-        <status>PASSED</status>
-    </testCase>
-    <testCase>
-        <name>Test Case 3</name>
-        <status>FAILED</status>
-        <error>
-            <message>Timeout Exception</message>
-            <details>Test case exceeded the maximum wait time of 30 seconds.</details>
-        </error>
-    </testCase>
-</testResults>
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Sample Test Suite" tests="3" failures="2" errors="0" skipped="0">
+    <testcase classname="LoginTests" name="test_login_valid_user" time="0.5">
+    </testcase>
+    <testcase classname="LoginTests" name="test_login_invalid_user" time="0.6">
+        <failure message="ElementNotFound: Cannot locate input field 'username'" type="AssertionError"/>
+    </testcase>
+    <testcase classname="CheckoutTests" name="test_add_to_cart" time="0.8">
+        <failure message="XPathError: Button 'Add to Cart' not found" type="AssertionError"/>
+    </testcase>
+</testsuite>
