@@ -4,22 +4,25 @@ import glob
 import os
 import re
 
-def parse_katalon_report(path):
-    """
-    Reads a Katalon CSV report and returns a list of failed test cases with error messages.
-    """
-    df = pd.read_csv(path)
-    
-    # Filter rows where Status is FAILED
-    failed = df[df["Status"] == "FAILED"]
-    
-    # Extract test case and error message
+def parse_katalon_report(report_path):
+    """Parse Katalon report CSV and extract failed test names and error messages."""
+    import csv
+
     failures = []
-    for _, row in failed.iterrows():
-        test_case = row["Test Case"]
-        error_message = row["Error Message"]
-        failures.append(f"{test_case}: {error_message}")
-    
+    with open(report_path, "r", encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            # Adjust these field names to match your CSV columns
+            test_name = row.get("Test Case") or row.get("Test Name")
+            status = row.get("Status", "").lower()
+            error = row.get("Message") or row.get("Error Message") or ""
+
+            if status == "failed":
+                failures.append({
+                    "Test Case": test_name.strip(),
+                    "Error Message": error.strip()
+                })
+
     return failures
 
 

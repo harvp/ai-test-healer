@@ -1,10 +1,9 @@
-# src/main.py
-import glob
-from utils import parse_katalon_report
+from utils import parse_katalon_report, find_groovy_file, extract_candidate_lines
 from healer import suggest_fix
+import glob, os
 
 if __name__ == "__main__":
-
+    base_scripts_path = os.path.join(os.getcwd(), "data", "groovy_scripts")
     report_files = glob.glob("data/reports/*.csv")
 
     if not report_files:
@@ -19,20 +18,16 @@ if __name__ == "__main__":
             else:
                 print("  Failures found:")
                 for f in failures:
-                    print("  -", f)
+                    print(f"  - {f['Test Case']}: {f['Error Message'][:100]}...")  # truncated for readability
+
                     print("\n  AI Suggestion:")
                     print("   ", suggest_fix(f))
 
-from utils import find_groovy_file, extract_candidate_lines
-
-base_scripts_path = "../qa-automated-testing-collective-regression/Scripts"
-
-test_case_name = "SPG - Verify Help My Account Options"
-error_msg = "element click intercepted: Element <li data-v-2ba57165='' class='nav-item'>...</li> is not clickable"
-
-groovy_path = find_groovy_file(base_scripts_path, test_case_name)
-print("Groovy path:", groovy_path)
-
-lines = extract_candidate_lines(groovy_path, error_msg)
-for lineno, content in lines:
-    print(f"{lineno}: {content}")
+                    groovy_path = find_groovy_file(base_scripts_path, f["Test Case"])
+                    print(f"\nTest Case: {f['Test Case']}")
+                    print("Groovy path:", groovy_path)
+                    
+                    candidate_lines = extract_candidate_lines(groovy_path, f["Error Message"])
+                    print("Candidate lines:")
+                    for lineno, line in candidate_lines:
+                        print(f"{lineno}: {line}")
