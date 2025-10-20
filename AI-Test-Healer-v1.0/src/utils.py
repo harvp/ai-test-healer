@@ -1,13 +1,20 @@
-import xml.etree.ElementTree as ET
+# src/utils.py
+import pandas as pd
 
 def parse_katalon_report(path):
-    tree = ET.parse(path)
-    root = tree.getroot()
+    """
+    Reads a Katalon CSV report and returns a list of failed test cases with error messages.
+    """
+    df = pd.read_csv(path)
+    
+    # Filter rows where Status is FAILED
+    failed = df[df["Status"] == "FAILED"]
+    
+    # Extract test case and error message
     failures = []
-    for test_case in root.findall(".//testcase"):
-        failure = test_case.find("failure")
-        if failure is not None:
-            name = test_case.get("name", "Unnamed Test")
-            message = failure.get("message", "No message")
-            failures.append(f"{name}: {message}")
+    for _, row in failed.iterrows():
+        test_case = row["Test Case"]
+        error_message = row["Error Message"]
+        failures.append(f"{test_case}: {error_message}")
+    
     return failures
