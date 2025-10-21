@@ -3,6 +3,7 @@ import pandas as pd
 import glob
 import os
 import re
+import xml.etree.ElementTree as ET
 
 def parse_katalon_report(report_path):
     """Parse Katalon report CSV and extract failed test names and error messages."""
@@ -73,3 +74,32 @@ def extract_candidate_lines(groovy_path, error_message, max_lines=5):
                 break
 
     return candidates
+
+def find_test_object_file(base_repo_path, object_ref):
+    file_path = os.path.join(base_repo_path, object_ref.replace("/", os.sep) + ".rs")
+    if os.path.isfile(file_path):
+        return file_path
+    return None
+
+def get_xpath_from_rs(rs_path):
+    try:
+        tree = ET.parse(rs_path)
+        root = tree.getroot()
+        for entry in root.findall(".//entry"):
+            key = entry.find("key")
+            if key is not None and key.text == "XPATH":
+                value = entry.find("value")
+                if value is not None:
+                    return value.text
+        return None
+    except Exception as e:
+        print(f"Error parsing {rs_path}: {e}")
+        return None
+
+def extract_test_object_refs(candidate_lines):
+    refs = set()
+    pattern = r"findTestObject\(['\"](.+?)['\"]\)"
+    for _, line in candidate_lines:
+        matches = re.findall(pattern, line)
+        refs.update(matches)
+    return list(refs)
