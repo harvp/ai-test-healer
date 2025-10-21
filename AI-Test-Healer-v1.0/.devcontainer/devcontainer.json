@@ -10,6 +10,6 @@
         "ms-toolsai.jupyter",
         "ms-vscode.cpptools"
     ],
-    "postCreateCommand": "pip install -r requirements.txt",
-    "remoteUser": "vscode"
+    "remoteUser": "vscode",
+    "postCreateCommand": ".devcontainer/post-create.sh"
 }
