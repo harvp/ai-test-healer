@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_edit_icon</name>
+   <tag></tag>
+   <elementGuidId>1200464a-0c1a-4bea-823d-da90be7dca33</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_TripFocus/i_Gas, 87 Octane, 10 Ethanol_fa fa-edit fa-lg text-info icon.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_TripFocus/i_Gas, 87 Octane, 10 Ethanol_fa fa-edit fa-lg text-info icon.png</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table/tbody/tr/td[7]/i</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'fa fa-edit fa-lg text-info icon']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>07af78d6-cb7e-4fa5-940b-66b45d52ca7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-edit fa-lg text-info icon</value>
+      <webElementGuid>cae6d9d8-66a7-48d8-b14b-2e21e2c1fd19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>161fcbc5-0eba-4424-8599-93d448672b2a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table/tbody/tr/td[7]/i</value>
+      <webElementGuid>ee159d73-2969-4f9c-a517-07764aed4ba1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/i</value>
+      <webElementGuid>5c52964b-a3d5-4894-b204-7a01ea50212b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

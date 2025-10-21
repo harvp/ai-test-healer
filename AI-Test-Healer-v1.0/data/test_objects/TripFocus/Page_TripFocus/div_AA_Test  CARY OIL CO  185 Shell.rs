@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AA_Test  CARY OIL CO  185 Shell</name>
+   <tag></tag>
+   <elementGuidId>36fa8cbb-77df-4f7f-b088-4e2bad365a17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.card.card-style > div.card-body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='slide-out-panel-be7a097e-ea42-e8f0-d286-7e28141d5eaa']/section/div[4]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bf79e503-434a-43f2-b91d-2b269f16e759</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-body</value>
+      <webElementGuid>4f3dceee-751f-4e4d-9e61-f79ede8f48e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> AA_Test  CARY OIL CO  185 Shell </value>
+      <webElementGuid>a566d479-b9d0-49e5-9f56-b76089865ab3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slide-out-panel-be7a097e-ea42-e8f0-d286-7e28141d5eaa&quot;)/section[@class=&quot;container&quot;]/div[@class=&quot;row card-row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;card card-style&quot;]/div[@class=&quot;card-body&quot;]</value>
+      <webElementGuid>a686469a-c3eb-49eb-a659-9b80e7a0ee9e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slide-out-panel-be7a097e-ea42-e8f0-d286-7e28141d5eaa']/section/div[4]/div/div/div/div</value>
+      <webElementGuid>87b3518a-c7ad-44c5-8972-869c7fcbe6c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery Site'])[2]/following::div[5]</value>
+      <webElementGuid>4a3d95f5-407b-4e9b-97e7-27fe3b4c17ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bill To'])[1]/following::div[6]</value>
+      <webElementGuid>6ecadda2-919c-48ef-9e8d-782a4651f62f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div</value>
+      <webElementGuid>3d31ce51-743a-4887-b281-a30ae9f88e0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' AA_Test  CARY OIL CO  185 Shell ' or . = ' AA_Test  CARY OIL CO  185 Shell ')]</value>
+      <webElementGuid>8da1bebb-7a48-4119-b35f-a9e0f8afc952</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

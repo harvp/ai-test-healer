@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Consignee (Click to sort Ascending)Send To (Click to sort Ascending)EventsActions1 Total Records  0</name>
+   <tag></tag>
+   <elementGuidId>f31f07a1-a0d2-4140-a0a0-45bb069e2aac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='defaultRouterView']/div[3]/div/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cb35df6d-8536-4d11-97f5-aa7ab9e1ece9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col</value>
+      <webElementGuid>38dff90f-19d5-487a-840d-9f4092d48337</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Consignee (Click to sort Ascending)Send To (Click to sort Ascending)EventsActions«‹1› Total Records : 0 </value>
+      <webElementGuid>a8fb20e9-03fc-4c7e-a853-4244bb1cc97b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;defaultRouterView&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]</value>
+      <webElementGuid>7dd9ad01-2a19-436c-9354-dbfd366a153a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='defaultRouterView']/div[3]/div/div/div[3]/div</value>
+      <webElementGuid>d2948c4f-96bd-4407-af96-efc37632b2c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Per page:'])[1]/following::div[2]</value>
+      <webElementGuid>e63b3a2a-0b54-45a9-9940-d232e8a8e002</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[1]/following::div[3]</value>
+      <webElementGuid>74c9134a-9c7c-4c39-8b43-5b23b67f01b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Total Records : 0']/parent::*</value>
+      <webElementGuid>1419c178-6322-439d-b045-1a4146c04b5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[3]/div</value>
+      <webElementGuid>f781dff8-97b4-4f15-b2aa-d27729728bd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Consignee (Click to sort Ascending)Send To (Click to sort Ascending)EventsActions«‹1› Total Records : 0 ' or . = 'Consignee (Click to sort Ascending)Send To (Click to sort Ascending)EventsActions«‹1› Total Records : 0 ')]</value>
+      <webElementGuid>2aff52fd-1de6-4798-8fbb-5db0a1d03890</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

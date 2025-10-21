@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Source Change</name>
+   <tag></tag>
+   <elementGuidId>09753c45-b528-4aa9-b2f3-cb2cffe2e3aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__BVID__642']/div/div/div/div/div/div[8]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8917e2f7-a2c3-46ab-b99f-83bbdc09f756</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vue-treeselect__multi-value-label</value>
+      <webElementGuid>d5016a2d-7bc0-4c6d-a84c-a43344ebbf9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Source Change</value>
+      <webElementGuid>05a5896f-2c51-4fbb-b7e8-a17df68b13f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__642&quot;)/div[@class=&quot;bv-no-focus-ring&quot;]/div[@class=&quot;vue-treeselect vue-treeselect--multi vue-treeselect--searchable vue-treeselect--has-value vue-treeselect--open-below&quot;]/div[@class=&quot;vue-treeselect__control&quot;]/div[@class=&quot;vue-treeselect__value-container&quot;]/div[@class=&quot;vue-treeselect__multi-value&quot;]/div[@class=&quot;vue-treeselect__multi-value-item-container&quot;]/div[@class=&quot;vue-treeselect__multi-value-item&quot;]/span[@class=&quot;vue-treeselect__multi-value-label&quot;]</value>
+      <webElementGuid>8a836211-cf23-4ab3-ae34-2c10497dba62</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__642']/div/div/div/div/div/div[8]/div/span</value>
+      <webElementGuid>4863f8a0-2fd0-4a03-b427-e8a1c30ef050</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery Complete'])[1]/following::span[2]</value>
+      <webElementGuid>5845ae05-299e-4595-b201-16738e737ff3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery Arrival'])[2]/following::span[4]</value>
+      <webElementGuid>ac19e8cb-2073-45a5-a2f0-762cd3eff6de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select...'])[1]/preceding::span[2]</value>
+      <webElementGuid>c7f40166-534f-46e0-a048-d86e36c4dd32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minimum of 1 event type is required.'])[1]/preceding::span[2]</value>
+      <webElementGuid>48d8d6de-6c5d-407a-afea-df9737c9154a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Source Change']/parent::*</value>
+      <webElementGuid>49a275d3-dc5a-4d89-bae4-556aa2dd7078</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/span</value>
+      <webElementGuid>e768d92a-8dea-4383-8c56-a4c89c8cdfea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Source Change' or . = 'Source Change')]</value>
+      <webElementGuid>0a7b1d35-5bb1-4365-b0bf-8c74f40caff5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

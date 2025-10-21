@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Order Accepted</name>
+   <tag></tag>
+   <elementGuidId>34bb09f7-55b9-4452-9f6c-178d4fa37da4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__BVID__1700']/div/div/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.vue-treeselect__multi-value-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>10062f1f-1b63-428c-9ee3-551b061947e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vue-treeselect__multi-value-item</value>
+      <webElementGuid>1067d507-6552-41ac-b267-eaa03dea2a5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Order Accepted</value>
+      <webElementGuid>7181ecbe-579c-4009-8bfa-a0c20476e93a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__1700&quot;)/div[@class=&quot;bv-no-focus-ring&quot;]/div[@class=&quot;vue-treeselect vue-treeselect--multi vue-treeselect--searchable vue-treeselect--has-value vue-treeselect--open-below&quot;]/div[@class=&quot;vue-treeselect__control&quot;]/div[@class=&quot;vue-treeselect__value-container&quot;]/div[@class=&quot;vue-treeselect__multi-value&quot;]/div[@class=&quot;vue-treeselect__multi-value-item-container&quot;]/div[@class=&quot;vue-treeselect__multi-value-item&quot;]</value>
+      <webElementGuid>580d15fa-5f8b-417e-9c5b-35e525df0b43</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__1700']/div/div/div/div/div/div/div</value>
+      <webElementGuid>46fa21d2-6e2c-4883-b50c-deb9ce636316</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notification Events'])[1]/following::div[7]</value>
+      <webElementGuid>43df1e1b-cd03-465b-8126-5b2d91db77fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send To'])[1]/following::div[11]</value>
+      <webElementGuid>01e19a04-f1c1-446c-b22b-d248b4b7f66d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select...'])[1]/preceding::div[1]</value>
+      <webElementGuid>e52ddd17-0d42-4c27-95c1-d7598b5973c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>d1fe231e-8156-4c4b-a389-c91d5fbc603f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Order Accepted' or . = 'Order Accepted')]</value>
+      <webElementGuid>7a433d32-014d-4c1d-929b-59eebc7b696e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

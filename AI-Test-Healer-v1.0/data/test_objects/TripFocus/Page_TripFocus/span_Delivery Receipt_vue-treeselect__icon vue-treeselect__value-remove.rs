@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Delivery Receipt_vue-treeselect__icon vue-treeselect__value-remove</name>
+   <tag></tag>
+   <elementGuidId>ea1096d3-1320-4e61-9469-8817d01b71f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__BVID__406']/div/div/div/div/div/div[2]/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>06da4506-a76d-413f-9e81-b97802854edc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vue-treeselect__icon vue-treeselect__value-remove</value>
+      <webElementGuid>11ea4c02-7803-470e-a0db-ec5707309e44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__406&quot;)/div[@class=&quot;bv-no-focus-ring&quot;]/div[@class=&quot;vue-treeselect vue-treeselect--multi vue-treeselect--searchable vue-treeselect--has-value vue-treeselect--open-below&quot;]/div[@class=&quot;vue-treeselect__control&quot;]/div[@class=&quot;vue-treeselect__value-container&quot;]/div[@class=&quot;vue-treeselect__multi-value&quot;]/div[@class=&quot;vue-treeselect__multi-value-item-container&quot;]/div[@class=&quot;vue-treeselect__multi-value-item&quot;]/span[@class=&quot;vue-treeselect__icon vue-treeselect__value-remove&quot;]</value>
+      <webElementGuid>346fc083-e7b4-4566-91b3-d71181a2f96f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__406']/div/div/div/div/div/div[2]/div/span[2]</value>
+      <webElementGuid>16ba3e3f-9bf9-4a9f-8e11-261c133a4cdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery Receipt'])[1]/following::span[1]</value>
+      <webElementGuid>e2da2754-aae8-4e2e-b1b3-3ab2496d3c46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bill Of Lading'])[1]/following::span[3]</value>
+      <webElementGuid>5322c88b-4051-49dd-af0e-192acc52bff0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invoice'])[1]/preceding::span[1]</value>
+      <webElementGuid>216660b4-daca-4152-9462-7db6a605b3db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INVMB (unknown)'])[1]/preceding::span[3]</value>
+      <webElementGuid>caf95730-d5c5-4ff3-81f7-f9953cbb4a76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/div/div[2]/div/span[2]</value>
+      <webElementGuid>127f2582-500a-47ad-b4b2-8e9d78a6cad9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

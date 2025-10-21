@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_General Notification</name>
+   <tag></tag>
+   <elementGuidId>955391cd-d040-499f-976f-337b0b3c97e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.multiselect__option.multiselect__option--highlight</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__BVID__120']/div/div/div/div[3]/ul/li/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ac6daf2b-2db6-4304-907b-2e303ac6741c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select</name>
+      <type>Main</type>
+      <value>Press enter to select</value>
+      <webElementGuid>a2a8588d-f7ca-40e0-91a2-43e4bd12134a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-selected</name>
+      <type>Main</type>
+      <value>Selected</value>
+      <webElementGuid>9000d8b9-8608-45b0-821f-fa60bc6cb3e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-deselect</name>
+      <type>Main</type>
+      <value>Press enter to remove</value>
+      <webElementGuid>d12881bb-4c36-4bdb-a99f-8f283ddbacd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>multiselect__option multiselect__option--highlight</value>
+      <webElementGuid>3c78de40-30fc-48bf-8d3f-bb891a2d9bad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>General Notification</value>
+      <webElementGuid>163afd0c-7a04-41fc-975a-f8c92a55304c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__120&quot;)/div[@class=&quot;bv-no-focus-ring&quot;]/div[@class=&quot;w-100 customer-multiselect&quot;]/div[@class=&quot;multiselect multiselect--active&quot;]/div[@class=&quot;multiselect__content-wrapper&quot;]/ul[@class=&quot;multiselect__content&quot;]/li[@class=&quot;multiselect__element&quot;]/span[@class=&quot;multiselect__option multiselect__option--highlight&quot;]</value>
+      <webElementGuid>e25742c4-042a-4cff-a57b-1aaaf4a7a04b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__120']/div/div/div/div[3]/ul/li/span</value>
+      <webElementGuid>4ccd02a6-4ab6-44a3-a19c-6c0afe7cef82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Category'])[1]/following::span[1]</value>
+      <webElementGuid>fc5b309c-2007-4f9a-a1e8-c09740acf38f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='&lt; Back To All Messages'])[1]/following::span[1]</value>
+      <webElementGuid>47d144db-7253-47ef-a80e-bb91f4698991</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invoice Issue'])[1]/preceding::span[2]</value>
+      <webElementGuid>c199ca18-7db8-4c33-a61f-03458c5e079d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/span</value>
+      <webElementGuid>bf57a39c-fbc1-4db0-8c4b-a18483988f16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'General Notification' or . = 'General Notification')]</value>
+      <webElementGuid>88083dab-0a0d-4bf0-abc8-f8b86ef9a061</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__284']/div/div/div/div[3]/ul/li/span</value>
+      <webElementGuid>38eed8b8-8431-4f66-abb7-8015167ffec8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

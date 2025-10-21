@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>GATORADE-BLUERIDGE_option</name>
+   <tag></tag>
+   <elementGuidId>6767adb1-4b78-4b92-8fc9-72e7481ce9ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div[2]/div/main/div/div[2]/div/div[2]/div/div/div[2]/div/div/div[2]/div[1]/div/div/div[3]/ul/li[3]/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

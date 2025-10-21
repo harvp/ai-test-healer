@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Account_icon-envelope font-3xl</name>
+   <tag></tag>
+   <elementGuidId>181117cb-10f2-43d6-b42e-5a0774aff517</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/header/ul/li/a/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon-envelope.font-3xl</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>aed21d43-0d00-4807-974b-5a3135e79267</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-envelope font-3xl</value>
+      <webElementGuid>54190123-9e26-4114-8104-1a6fa37f65df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app&quot;]/header[@class=&quot;app-header navbar&quot;]/ul[@class=&quot;navbar-nav ml-auto&quot;]/li[@class=&quot;nav-item d-md-down-none&quot;]/a[@class=&quot;nav-link&quot;]/div[1]/i[@class=&quot;icon-envelope font-3xl&quot;]</value>
+      <webElementGuid>cbc84701-20b3-4391-a32b-0a1c7a7e88cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/header/ul/li/a/div/i</value>
+      <webElementGuid>fab55c50-48b6-4607-9ffc-a44f9a63adb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>ae6b5785-de16-412b-b463-62c7b6139f71</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

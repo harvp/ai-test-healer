@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Advanced_Search_Fields_dropdown</name>
+   <tag></tag>
+   <elementGuidId>cf16629f-c104-4a2e-bf81-2715060eea37</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@aria-controls = 'collapse-advanced' and @class = 'pointer']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>driver.find_element(By.CSS_SELECTOR, &quot;button.btn.btn-outline-primary&quot;)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[text()='Advanced Filters']&#xd;
+&#xd;
+&#xd;
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>//*[@id=&quot;slide-out-panel-a4926c5a-0593-d085-3e12-f8a57ad6abef&quot;]/div/div[4]/div/h4/span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>collapse-advanced</value>
+      <webElementGuid>89d2d0d6-4242-4494-ac99-2c8d4c8c2612</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pointer</value>
+      <webElementGuid>2db64ea8-d624-4835-a897-00ebccd053a3</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

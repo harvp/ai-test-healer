@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Meijer  281, MacHesney Park, IL</name>
+   <tag></tag>
+   <elementGuidId>50e77c1c-9bac-4e6c-9985-942512ea815b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ddlDeliverySite']/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.vs__dropdown-option.vs__dropdown-option--highlight</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>805ea367-d55f-4fad-b129-137c783c9217</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>1734e648-af31-476d-8c05-dffd1c873908</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vs__dropdown-option vs__dropdown-option--highlight</value>
+      <webElementGuid>95bd1978-a4ba-48ca-a80e-9d891c5414da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Meijer  281, MacHesney Park, IL </value>
+      <webElementGuid>14db6b49-532b-4848-8c9d-985e78966a12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ddlDeliverySite&quot;)/ul[@class=&quot;vs__dropdown-menu vs__fade-leave-active vs__fade-leave-to&quot;]/li[@class=&quot;vs__dropdown-option vs__dropdown-option--highlight&quot;]</value>
+      <webElementGuid>3a97dc6b-572b-4b4b-a186-8eb5df9a8fc2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ddlDeliverySite']/ul/li</value>
+      <webElementGuid>a228ea08-14ea-4c08-95db-0770f03c7374</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[1]/following::li[1]</value>
+      <webElementGuid>79d49f5b-9df7-476e-9bd0-0feb5d1c3725</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li</value>
+      <webElementGuid>0c7c830b-ae62-4352-a360-0e102878984f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = ' Meijer  281, MacHesney Park, IL ' or . = ' Meijer  281, MacHesney Park, IL ')]</value>
+      <webElementGuid>a8113e86-23a5-40bc-86a8-14e0d52231fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

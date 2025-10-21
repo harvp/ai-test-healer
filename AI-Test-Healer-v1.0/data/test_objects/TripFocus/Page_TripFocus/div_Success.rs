@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Success</name>
+   <tag></tag>
+   <elementGuidId>af91e0aa-338c-41a2-947f-9b4993d23c28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>section.container-fluid.vld-parent > div > div.snotify.snotify-rightBottom > div.snotifyToast.animated.snotify-success.fadeIn > div.snotifyToast__inner > div.snotifyToast__title</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Success' or . = 'Success')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/main/div/div[2]/section/div/div[6]/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1fa878ba-41a5-409e-a767-09bfc621fbba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>snotifyToast__title</value>
+      <webElementGuid>effe47aa-7af5-425a-b28c-f316b68be90f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Success</value>
+      <webElementGuid>bc13f7d7-ad08-4a80-95da-8d5bc0ba63ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/div[2]/section[@class=&quot;container-fluid vld-parent&quot;]/div[1]/div[@class=&quot;snotify snotify-rightBottom&quot;]/div[@class=&quot;snotifyToast animated snotify-success fadeIn&quot;]/div[@class=&quot;snotifyToast__inner&quot;]/div[@class=&quot;snotifyToast__title&quot;]</value>
+      <webElementGuid>9c010608-e8a4-4122-b8b0-e2b9e8b668a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/main/div/div[2]/section/div/div[6]/div/div[2]/div</value>
+      <webElementGuid>0282bb91-fd51-4e55-9431-915baa99a868</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You are currently in our Quality Assurance Environment.'])[1]/following::div[12]</value>
+      <webElementGuid>bbd0112b-fc92-400a-83cb-34408ee88135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[1]/following::div[18]</value>
+      <webElementGuid>b430673b-9cfb-456b-a33b-71534d53cc49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your request has been received. An email will be sent with your requested images.'])[2]/preceding::div[1]</value>
+      <webElementGuid>fd7c39fb-dc9f-4dcb-90ea-353b13429a30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Orders'])[2]/preceding::div[9]</value>
+      <webElementGuid>6726700a-762d-496b-9fb0-9b4370a3c47b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div[6]/div/div[2]/div</value>
+      <webElementGuid>fd029285-a20b-49fa-8908-166cd8fae346</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Success' or . = 'Success')]</value>
+      <webElementGuid>f1c25346-ad34-46fc-bb24-8cd3e7291a83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_BillTo_multiselect__tags</name>
+   <tag></tag>
+   <elementGuidId>a34cea45-cc4a-49bc-bf42-a6aa9cc281a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.multiselect.multiselect--active > div.multiselect__tags</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collapse-advanced']/div/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>16e38b0c-fda7-494b-9246-bb68c4c5e3e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>multiselect__tags</value>
+      <webElementGuid>46aa6f63-4f37-4671-b92e-a405d581b28e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapse-advanced&quot;)/div[@class=&quot;form-row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;mb-3&quot;]/div[@class=&quot;multiselect multiselect--active&quot;]/div[@class=&quot;multiselect__tags&quot;]</value>
+      <webElementGuid>3f2ff1e7-85be-4f23-9c59-c7b32e2ac1da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapse-advanced']/div/div/div/div/div[2]</value>
+      <webElementGuid>56360fe6-c789-49ef-a284-d6015e4b8c77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BillTo'])[1]/following::div[4]</value>
+      <webElementGuid>3cc8fee0-f163-425f-bda8-1fced9be10dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Advanced Search Fields'])[1]/following::div[7]</value>
+      <webElementGuid>0a66bf8e-d34c-45c8-87fa-b861deca77ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No BillTos found. Consider changing the search query.'])[1]/preceding::div[3]</value>
+      <webElementGuid>e6b8c1c0-85de-450a-a7b8-cc7cf42c9ec3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List is empty.'])[3]/preceding::div[3]</value>
+      <webElementGuid>692c1d86-879a-401d-a48d-4b49a9c3b70b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>9408c432-847b-41e9-badc-a4297f8cc63d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_User Permissions</name>
+   <tag></tag>
+   <elementGuidId>88637210-4cbb-4657-b1bf-7047f0fe51bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#__BVID__178 > div.mb-3 > div.card > div.card-body > h4.card-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__BVID__178']/div/div/div/h4</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'User Permissions' or . = 'User Permissions')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>e2f375ac-9318-4eb3-ba2c-dc58e1827334</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-title</value>
+      <webElementGuid>dc8d9555-aedf-4665-a61a-d9ed06f6d93c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>User Permissions</value>
+      <webElementGuid>4c0c8e36-36af-4302-93e0-6b85fdc58d71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__178&quot;)/div[@class=&quot;mb-3&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/h4[@class=&quot;card-title&quot;]</value>
+      <webElementGuid>3e82dff5-6ad0-4e0b-8129-024b0aeb2728</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__178']/div/div/div/h4</value>
+      <webElementGuid>07922827-e5d4-4a06-99d3-df1dd8a99bed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset User Information'])[1]/following::h4[1]</value>
+      <webElementGuid>f966393c-5bef-41da-b0e5-7e5ecb6161c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save User Information'])[1]/following::h4[1]</value>
+      <webElementGuid>153b99a5-3d12-4dd4-9440-16484f2af169</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permissions'])[2]/preceding::h4[1]</value>
+      <webElementGuid>670040a8-d01d-4b7b-bee6-5a791a251005</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CustomerTemplatePermissions - View'])[1]/preceding::h4[1]</value>
+      <webElementGuid>2b878518-47b4-4172-ad5c-c21020a2dd59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='User Permissions']/parent::*</value>
+      <webElementGuid>3f767e3e-c40d-4c81-9b36-21fb55164724</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/h4</value>
+      <webElementGuid>b2c9fcd3-74f9-4150-8583-a3d5f96b0fa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'User Permissions' or . = 'User Permissions')]</value>
+      <webElementGuid>41fecdda-6d4a-4844-b5fa-42caa9a062f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__143']/div/div/div/h4</value>
+      <webElementGuid>6e6ae6ce-08ce-4327-bc2d-d9f9578fdfa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LoadTenderPermissions - View'])[1]/preceding::h4[1]</value>
+      <webElementGuid>7b6b0391-12bc-4d5f-9b69-50492194eb47</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

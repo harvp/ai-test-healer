@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Order Invoice Available</name>
+   <tag></tag>
+   <elementGuidId>5a3564d4-00d5-449e-b9c4-848dcacc51d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__BVID__1700']/div/div/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.vue-treeselect__multi-value-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e1900744-5cbf-4a69-af2b-07d013532a8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vue-treeselect__multi-value-item</value>
+      <webElementGuid>18406db6-7486-49a8-8fa1-7398cfd93d55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Order Invoice Available</value>
+      <webElementGuid>9ba9e2ed-64f4-405e-b564-9cd247c17593</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__1700&quot;)/div[@class=&quot;bv-no-focus-ring&quot;]/div[@class=&quot;vue-treeselect vue-treeselect--multi vue-treeselect--searchable vue-treeselect--has-value vue-treeselect--open-below&quot;]/div[@class=&quot;vue-treeselect__control&quot;]/div[@class=&quot;vue-treeselect__value-container&quot;]/div[@class=&quot;vue-treeselect__multi-value&quot;]/div[@class=&quot;vue-treeselect__multi-value-item-container&quot;]/div[@class=&quot;vue-treeselect__multi-value-item&quot;]</value>
+      <webElementGuid>5236ea14-b2c4-4a01-af12-4d14001b20c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__1700']/div/div/div/div/div/div/div</value>
+      <webElementGuid>e0142bcd-35ee-4938-820d-0bd106f8d7cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notification Events'])[1]/following::div[7]</value>
+      <webElementGuid>99d614ef-c57d-4dcc-a8a7-c0426ce33a80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send To'])[1]/following::div[11]</value>
+      <webElementGuid>10d3f54e-19d1-42fa-9862-fe9ebf05e5bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select...'])[1]/preceding::div[1]</value>
+      <webElementGuid>e5424ecc-5e5b-490a-bc1a-1d0c5df0d916</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>dd20b286-a327-4c4c-bcee-8f389825f374</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Order Invoice Available' or . = 'Order Invoice Available')]</value>
+      <webElementGuid>97d5a73a-a305-4e23-9516-20cd394b3158</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

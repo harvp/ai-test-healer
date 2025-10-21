@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Account</name>
+   <tag></tag>
+   <elementGuidId>c3305f7a-d1c8-4309-8503-5751495a74f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='__BVID__20']/ul/li/div&#xd;
+//*[@id=&quot;__BVID__23__BV_toggle_menu_&quot;]/li[1]/div/strong&#xd;
+//*[@id=&quot;__BVID__23__BV_toggle_menu_&quot;]/li[1]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.dropdown-header</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@role = 'heading' and @class = 'dropdown-header' and (text() = 'Account' or . = 'Account')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5d7a1445-7ae3-4e9f-a208-3244e2f46203</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>heading</value>
+      <webElementGuid>60b88ce5-1558-4951-8a2f-59d9b1a01f1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-header</value>
+      <webElementGuid>40c081f9-0b47-4c41-b821-bb94abab3c83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Account</value>
+      <webElementGuid>6a6836ff-6a1a-4144-87c9-79e60737b528</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__20&quot;)/ul[@class=&quot;dropdown-menu dropdown-menu-right show&quot;]/li[@class=&quot;text-center&quot;]/div[@class=&quot;dropdown-header&quot;]</value>
+      <webElementGuid>d59fbb24-f07f-416e-bbab-d2560bc980e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='__BVID__20']/ul/li/div</value>
+      <webElementGuid>11d56095-e8ff-4bbc-9d4f-e2a8409114a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hello Bhargavi!'])[1]/preceding::div[1]</value>
+      <webElementGuid>92bd688a-30e8-4c00-a991-79bd30901ed3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div</value>
+      <webElementGuid>1fe535a9-da46-4525-97ed-57ffbc6f8b5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Account' or . = 'Account')]</value>
+      <webElementGuid>9ede322e-2489-43a0-b596-c0adac5b9ee9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

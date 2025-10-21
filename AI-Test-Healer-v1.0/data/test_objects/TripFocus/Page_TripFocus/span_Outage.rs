@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Outage</name>
+   <tag></tag>
+   <elementGuidId>f8e0125b-ba98-4787-89a8-19211936b4d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.multiselect__option.multiselect__option--highlight</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__BVID__167']/div/div/div/div[3]/ul/li[4]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>325e7cf2-7ff1-4838-ba30-436e42cb6f1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select</name>
+      <type>Main</type>
+      <value>Press enter to select</value>
+      <webElementGuid>be72a7f2-d616-40d0-a930-d5179fc480d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-selected</name>
+      <type>Main</type>
+      <value>Selected</value>
+      <webElementGuid>7de0edc4-c93a-46ed-92c9-50c8248e3a3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-deselect</name>
+      <type>Main</type>
+      <value>Press enter to remove</value>
+      <webElementGuid>c4688154-7878-4640-b1a3-bd7667699f3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>multiselect__option multiselect__option--highlight</value>
+      <webElementGuid>aa936d98-b663-471e-9352-ceaa335e8ff3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Outage</value>
+      <webElementGuid>cf0cd56a-cfea-4933-98be-7e542451b796</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__167&quot;)/div[@class=&quot;bv-no-focus-ring&quot;]/div[@class=&quot;w-100 customer-multiselect&quot;]/div[@class=&quot;multiselect multiselect--active&quot;]/div[@class=&quot;multiselect__content-wrapper&quot;]/ul[@class=&quot;multiselect__content&quot;]/li[@class=&quot;multiselect__element&quot;]/span[@class=&quot;multiselect__option multiselect__option--highlight&quot;]</value>
+      <webElementGuid>a35310dc-3362-4df6-bd07-987d14605381</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__167']/div/div/div/div[3]/ul/li[4]/span</value>
+      <webElementGuid>cb9ee2c2-7dda-40b2-b91e-c72995df9498</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order/Delivery Issue'])[1]/following::span[1]</value>
+      <webElementGuid>94ec471f-f855-4fad-87ac-be03adeebbe8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invoice Issue'])[1]/following::span[3]</value>
+      <webElementGuid>162f150a-3fbe-411b-b67e-5d0902eeaa72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reminder'])[1]/preceding::span[2]</value>
+      <webElementGuid>f3f28fd8-86fc-45c8-a003-ad5b549c9e0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/span</value>
+      <webElementGuid>22dca509-8694-4c7c-a0d6-e56959f0f704</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Outage' or . = 'Outage')]</value>
+      <webElementGuid>e426ec67-f87b-42e0-b641-4c6dea638a13</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_bhargavijsprmeijergmail.com</name>
+   <tag></tag>
+   <elementGuidId>bfd0548a-778b-410a-980a-f9726e351299</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.multiselect__option.multiselect__option--highlight</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/main/div/section/div[3]/div/div/div/div/section/div[2]/section/div[3]/div/div/div[3]/ul/li/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e4c00965-ffd5-49df-a0cb-387e3d089b1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select</name>
+      <type>Main</type>
+      <value>Press enter to select</value>
+      <webElementGuid>a8b00a89-b5e1-479d-b4f9-40ccd5145b5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-selected</name>
+      <type>Main</type>
+      <value>Selected</value>
+      <webElementGuid>1729e29c-cc31-49bf-9e28-f0932120fb07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-deselect</name>
+      <type>Main</type>
+      <value>Press enter to remove</value>
+      <webElementGuid>fde982d9-87d3-4533-93b5-cbf6497d1118</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>multiselect__option multiselect__option--highlight</value>
+      <webElementGuid>55d4d7f6-aca5-4ef7-9d00-1b352bf95f47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>bhargavijspr+meijer@gmail.com</value>
+      <webElementGuid>f7ad0662-67b6-4b6d-8052-c71166808b33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/section[@class=&quot;container vld-parent&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/section[@class=&quot;container mb-4&quot;]/div[@class=&quot;row&quot;]/section[@class=&quot;col row&quot;]/div[@class=&quot;pd-10 col-sm-12 col-md-6 col-lg-6&quot;]/div[1]/div[@class=&quot;multiselect multiselect--active&quot;]/div[@class=&quot;multiselect__content-wrapper&quot;]/ul[@class=&quot;multiselect__content&quot;]/li[@class=&quot;multiselect__element&quot;]/span[@class=&quot;multiselect__option multiselect__option--highlight&quot;]</value>
+      <webElementGuid>8131d434-7809-4aff-8fd4-a009c45484a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/main/div/section/div[3]/div/div/div/div/section/div[2]/section/div[3]/div/div/div[3]/ul/li/span</value>
+      <webElementGuid>ed987ac7-1ad8-47d2-9666-0d71b6380cf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Assignment'])[1]/following::span[1]</value>
+      <webElementGuid>34eea609-0e5d-424f-997d-be69b0da2f5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assign to All Users'])[1]/following::span[1]</value>
+      <webElementGuid>34a4e2f3-af7d-4e79-b97c-e79fccd3a30b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='martinko44481+meijer@gmail.com'])[1]/preceding::span[2]</value>
+      <webElementGuid>1098bdf6-6294-44f4-964e-d2c23abdaf28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/span</value>
+      <webElementGuid>89a03ad0-ebba-4322-bea1-d512c05c58f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'bhargavijspr+meijer@gmail.com' or . = 'bhargavijspr+meijer@gmail.com')]</value>
+      <webElementGuid>76a4280d-33b2-48cc-92c6-7e4202082ab0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

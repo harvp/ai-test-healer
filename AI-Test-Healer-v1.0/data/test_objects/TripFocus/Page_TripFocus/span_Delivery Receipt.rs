@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Delivery Receipt</name>
+   <tag></tag>
+   <elementGuidId>7bae78cf-2337-43b6-8100-cbdbacc25dc6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__BVID__307']/div/div/div/div/div/div[2]/div/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Delivery Receipt' or . = 'Delivery Receipt')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c418acc8-522f-410e-9bf2-c250fad0f317</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vue-treeselect__multi-value-label</value>
+      <webElementGuid>33755d1e-189b-49f9-b27d-487e597dc91d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delivery Receipt</value>
+      <webElementGuid>5848c213-06bd-47bf-b617-e2124ff31460</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__307&quot;)/div[@class=&quot;bv-no-focus-ring&quot;]/div[@class=&quot;vue-treeselect vue-treeselect--multi vue-treeselect--searchable vue-treeselect--has-value vue-treeselect--open-below&quot;]/div[@class=&quot;vue-treeselect__control&quot;]/div[@class=&quot;vue-treeselect__value-container&quot;]/div[@class=&quot;vue-treeselect__multi-value&quot;]/div[@class=&quot;vue-treeselect__multi-value-item-container&quot;]/div[@class=&quot;vue-treeselect__multi-value-item&quot;]/span[@class=&quot;vue-treeselect__multi-value-label&quot;]</value>
+      <webElementGuid>f729b4a4-3b35-4f16-94be-20b88f956b7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__307']/div/div/div/div/div/div[2]/div/span</value>
+      <webElementGuid>bb6d799e-69a9-4b08-bc23-19c7c516edaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bill Of Lading'])[1]/following::span[2]</value>
+      <webElementGuid>0d497870-134b-42da-84dd-264fe00e020f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Image Permissions'])[1]/following::span[3]</value>
+      <webElementGuid>2534fb3e-7507-4a8b-80a4-36b5f34e8d36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select...'])[2]/preceding::span[2]</value>
+      <webElementGuid>0d8ab611-37d0-407a-8e84-a27c2d18c8b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minimum of 1 permission required.'])[2]/preceding::span[2]</value>
+      <webElementGuid>96226e88-7dbd-44c4-b0ac-21eb95ed1203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Delivery Receipt']/parent::*</value>
+      <webElementGuid>4f8ba229-eb28-4123-9379-22d9e113fd98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/div/div[2]/div/span</value>
+      <webElementGuid>f78753ce-2342-498d-8242-80c48b797bab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Delivery Receipt' or . = 'Delivery Receipt')]</value>
+      <webElementGuid>76d31869-8a05-4280-b754-cc98ef412a06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__968']/div/div/div/div/div/div[2]/div/span</value>
+      <webElementGuid>04d88110-04be-40de-ae5b-c5106b7a3979</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/span</value>
+      <webElementGuid>cbace37a-dec3-4208-8af9-3f0e33bc90c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

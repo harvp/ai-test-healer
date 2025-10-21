@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ALLIED ENERGY COPORATION (Id ALLIBIR)</name>
+   <tag></tag>
+   <elementGuidId>2cc9fe6a-7d4a-4cf3-95d0-910a1fa67782</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.option__desc</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collapse-advanced']/div[3]/div/div/div/div[3]/ul/li/span/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d581f247-0c5a-46fe-9b1d-038392598b85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>option__desc</value>
+      <webElementGuid>86e9aace-aea8-469b-b1fe-8a39d795f8b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> ALLIED ENERGY COPORATION (Id: ALLIBIR) </value>
+      <webElementGuid>b5508c6d-b216-411d-8841-3d58ece4565c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapse-advanced&quot;)/div[@class=&quot;form-row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;mb-3&quot;]/div[@class=&quot;multiselect multiselect--active&quot;]/div[@class=&quot;multiselect__content-wrapper&quot;]/ul[@class=&quot;multiselect__content&quot;]/li[@class=&quot;multiselect__element&quot;]/span[@class=&quot;multiselect__option multiselect__option--highlight&quot;]/div[@class=&quot;option__desc&quot;]</value>
+      <webElementGuid>0c51f777-11ad-4a05-b557-7632225cab11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapse-advanced']/div[3]/div/div/div/div[3]/ul/li/span/div</value>
+      <webElementGuid>d38350f9-9332-4cdf-97d3-83ec9fdffdf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Supplier'])[1]/following::div[8]</value>
+      <webElementGuid>5970554f-461f-4982-b7e8-f3f87a1a3146</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List is empty.'])[6]/following::div[10]</value>
+      <webElementGuid>ec1f6579-9133-4b8d-b64a-8490058fd403</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ALLIED OIL (Id: ALLIED)'])[1]/preceding::div[1]</value>
+      <webElementGuid>3be21b8f-ceb7-4afe-82a5-7e5e7cfd425c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ALON USA - SPOT (Id: ALON-S)'])[1]/preceding::div[2]</value>
+      <webElementGuid>c777fb2a-6c7c-41a8-a51f-ce85b8c59933</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ALLIED ENERGY COPORATION (Id: ALLIBIR)']/parent::*</value>
+      <webElementGuid>c84d849f-4181-4608-8915-6dc3f83947f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div</value>
+      <webElementGuid>897bce42-c595-4194-a6b9-563881b79dbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' ALLIED ENERGY COPORATION (Id: ALLIBIR) ' or . = ' ALLIED ENERGY COPORATION (Id: ALLIBIR) ')]</value>
+      <webElementGuid>3955cdc5-70dd-4d4a-ac81-876b2c608672</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

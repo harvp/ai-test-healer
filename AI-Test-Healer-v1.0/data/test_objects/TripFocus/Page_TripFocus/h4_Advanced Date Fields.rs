@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Advanced Date Fields</name>
+   <tag></tag>
+   <elementGuidId>9fbb1483-c680-405d-8803-1af83c85605b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='slide-out-panel-e4b61b5d-3e0c-5f7c-82e9-9fe9ae893fcb']/div/div[3]/div/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>7a7e21ec-c83b-43b4-9d5d-bcc94e52e28a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-title</value>
+      <webElementGuid>8c70a143-3687-414c-b4b2-c4f109e2fbd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Advanced Date Fields </value>
+      <webElementGuid>6b8a8d36-cc76-4d9a-91ca-a718335a0c01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slide-out-panel-e4b61b5d-3e0c-5f7c-82e9-9fe9ae893fcb&quot;)/div[@class=&quot;container order-search&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/h4[@class=&quot;card-title&quot;]</value>
+      <webElementGuid>10e84d22-0899-4c28-95a2-094a66ed7828</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slide-out-panel-e4b61b5d-3e0c-5f7c-82e9-9fe9ae893fcb']/div/div[3]/div/h4</value>
+      <webElementGuid>1d3ac690-7f24-48c1-b217-2569e7a0c46d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List is empty.'])[11]/following::h4[1]</value>
+      <webElementGuid>20e53930-fbf8-4b1e-9b96-f75b8e720e25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Commodity Classes found. Consider changing the search query.'])[1]/following::h4[1]</value>
+      <webElementGuid>f3a1b9b4-4c66-44f8-a3e1-85aad3844f24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipped From'])[1]/preceding::h4[1]</value>
+      <webElementGuid>65c3aaef-a152-4e57-87d8-6a2d0aed964c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/h4</value>
+      <webElementGuid>2d6d1885-e0dd-4bb3-ab4a-b815568a0a4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = ' Advanced Date Fields ' or . = ' Advanced Date Fields ')]</value>
+      <webElementGuid>635c2249-61c7-4da2-9c91-4328acde03c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

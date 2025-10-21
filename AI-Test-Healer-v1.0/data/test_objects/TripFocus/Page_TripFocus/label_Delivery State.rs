@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Delivery State</name>
+   <tag></tag>
+   <elementGuidId>8cf677b8-bc99-4316-9881-9764c725b5d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collapse-advanced']/div[4]/div[2]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>4998e0c1-3808-4998-adf0-9ec817a11a6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>inputEmail4</value>
+      <webElementGuid>0dbfa626-3202-47be-a12f-79f1e353b4a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delivery State</value>
+      <webElementGuid>03a319b0-a099-4de9-8837-dc0fcf615689</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapse-advanced&quot;)/div[@class=&quot;form-row&quot;]/div[@class=&quot;col-md-6&quot;]/label[1]</value>
+      <webElementGuid>76b6b5d0-47c0-48a7-acaf-7125d2596e16</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapse-advanced']/div[4]/div[2]/label</value>
+      <webElementGuid>372d21fe-f3c2-4b4d-a532-7209c19b9502</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List is empty.'])[9]/following::label[1]</value>
+      <webElementGuid>1410aa6a-0152-4716-8e65-a89337b35e62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Cities found. Consider changing the search query.'])[1]/following::label[1]</value>
+      <webElementGuid>45d51464-cfd3-4469-bffe-86c355f4fb08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type to search available States'])[1]/preceding::label[1]</value>
+      <webElementGuid>33c81eab-7f52-42dd-8974-e873a10908b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aguascalientes'])[1]/preceding::label[1]</value>
+      <webElementGuid>77150647-4148-4c32-91ee-fe8d66634890</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Delivery State']/parent::*</value>
+      <webElementGuid>b9dd5665-0e18-4412-a3ab-ed9ab0691db0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/label</value>
+      <webElementGuid>9cf061e7-c778-416d-a791-6a28a3f811c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Delivery State' or . = 'Delivery State')]</value>
+      <webElementGuid>827ac6c4-bc33-4c23-a6a1-c65b187cc9b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

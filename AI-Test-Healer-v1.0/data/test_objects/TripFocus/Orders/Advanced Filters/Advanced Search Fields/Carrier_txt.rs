@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Carrier_txt</name>
+   <tag></tag>
+   <elementGuidId>a6b0ca49-86a3-4358-8510-342908bf9f1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div[2]/div/main/div/div[2]/div/div[2]/div/div/div[2]/div/div/div[2]/div[2]/div/div/div[2]/input</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'msCarriers' and @type  = 'text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>msCarriers</value>
+      <webElementGuid>b0d8dd77-8681-4860-a3ea-3745dfe9becb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type </name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>e8eca547-2535-45a4-97a7-88ae1074e208</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>multiselect__input</value>
+      <webElementGuid>ca136041-2a2c-4048-9948-8348c72e8fab</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

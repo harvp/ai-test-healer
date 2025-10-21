@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Order Changed_vue-treeselect__minus-mark</name>
+   <tag></tag>
+   <elementGuidId>7b799d82-70f5-43af-8203-b588ac1f2b01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__BVID__382']/div/div/div[2]/div/div/div[3]/div/div/div/span/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.vue-treeselect__checkbox.vue-treeselect__checkbox--checked > span.vue-treeselect__minus-mark</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7193969e-0a85-4b11-b1b0-2264828cd285</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vue-treeselect__minus-mark</value>
+      <webElementGuid>d07c80ad-65bb-4d05-a55b-995780ec26ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__382&quot;)/div[@class=&quot;bv-no-focus-ring&quot;]/div[@class=&quot;vue-treeselect vue-treeselect--multi vue-treeselect--searchable vue-treeselect--focused vue-treeselect--has-value vue-treeselect--open vue-treeselect--open-below&quot;]/div[@class=&quot;vue-treeselect__menu-container&quot;]/div[@class=&quot;vue-treeselect__menu&quot;]/div[@class=&quot;vue-treeselect__list&quot;]/div[@class=&quot;vue-treeselect__list-item vue-treeselect__indent-level-0&quot;]/div[@class=&quot;vue-treeselect__option vue-treeselect__option--selected vue-treeselect__option--highlight&quot;]/div[@class=&quot;vue-treeselect__label-container&quot;]/div[@class=&quot;vue-treeselect__checkbox-container&quot;]/span[@class=&quot;vue-treeselect__checkbox vue-treeselect__checkbox--checked&quot;]/span[@class=&quot;vue-treeselect__minus-mark&quot;]</value>
+      <webElementGuid>8cf48e54-1342-4771-b4f4-4e41637eec18</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__382']/div/div/div[2]/div/div/div[3]/div/div/div/span/span[2]</value>
+      <webElementGuid>428570ac-f762-4a38-847d-e56c767b1f60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/span/span[2]</value>
+      <webElementGuid>2591322d-1325-4196-acf9-a7770aebe49f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_48300851</name>
+   <tag></tag>
+   <elementGuidId>a48c83cc-ccc5-43f7-99a3-13bd1d22db47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[(text() = ' 48300851 ' or . = ' 48300851 ')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/main/div/div[2]/section/div[5]/div/div/div[3]/div/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-sm-1.col-md-2.col-lg-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3022e1c1-b3a5-4bd9-961f-a93eaf7fd369</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-sm-1 col-md-2 col-lg-2</value>
+      <webElementGuid>2fae2174-7b06-412d-98d7-ae8dfb0308a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 48300851 </value>
+      <webElementGuid>a8ee3a4a-3ab1-4d21-b166-8bd893d991fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/div[2]/section[@class=&quot;container-fluid vld-parent&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;card webview-card&quot;]/div[@class=&quot;card-body&quot;]/div[3]/div[@class=&quot;row mx-0&quot;]/div[@class=&quot;card card-style&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row align-items-center&quot;]/div[@class=&quot;col-sm-1 col-md-2 col-lg-2&quot;]</value>
+      <webElementGuid>852cdc32-151b-4c21-a844-e0796d95499a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/main/div/div[2]/section/div[5]/div/div/div[3]/div/div[2]/div/div/div</value>
+      <webElementGuid>46ed17fc-6408-4d0a-9d3a-f785ce4c6af8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::div[7]</value>
+      <webElementGuid>b3659087-aac2-4e2d-a647-b51c7f8e29a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery Site'])[1]/following::div[8]</value>
+      <webElementGuid>81a753b6-d5cc-4304-8b13-83fb4c42736a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#4000 UNITED FUEL'])[1]/preceding::div[4]</value>
+      <webElementGuid>913f6ea2-cb58-45bf-8106-cd44e42f406e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Available'])[1]/preceding::div[5]</value>
+      <webElementGuid>eff3a31f-55ea-47a0-9f98-e23f6ab8adfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='48300851']/parent::*</value>
+      <webElementGuid>0d4f293f-e524-4d92-8cd8-3dcff3be0922</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div/div</value>
+      <webElementGuid>1ea6ac2f-0839-416a-a673-d8642baf4548</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' 48300851 ' or . = ' 48300851 ')]</value>
+      <webElementGuid>292a32e6-8efc-4b0f-a44b-ecd8831297eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

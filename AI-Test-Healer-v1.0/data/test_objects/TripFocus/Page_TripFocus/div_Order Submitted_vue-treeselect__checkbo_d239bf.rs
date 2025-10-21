@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Order Submitted_vue-treeselect__checkbo_d239bf</name>
+   <tag></tag>
+   <elementGuidId>37798f3d-777e-48ec-a054-8cb600ff9df3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__BVID__248']/div/div/div[2]/div/div/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.vue-treeselect__option.vue-treeselect__option--selected.vue-treeselect__option--highlight > div.vue-treeselect__label-container > div.vue-treeselect__checkbox-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8932f7ee-fc31-4be6-bf58-685b7c3d1f52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vue-treeselect__checkbox-container</value>
+      <webElementGuid>a91dc38c-c0f0-46e2-b88d-76c867034179</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__248&quot;)/div[@class=&quot;bv-no-focus-ring&quot;]/div[@class=&quot;vue-treeselect vue-treeselect--multi vue-treeselect--searchable vue-treeselect--focused vue-treeselect--has-value vue-treeselect--open vue-treeselect--open-below&quot;]/div[@class=&quot;vue-treeselect__menu-container&quot;]/div[@class=&quot;vue-treeselect__menu&quot;]/div[@class=&quot;vue-treeselect__list&quot;]/div[@class=&quot;vue-treeselect__list-item vue-treeselect__indent-level-0&quot;]/div[@class=&quot;vue-treeselect__option vue-treeselect__option--selected vue-treeselect__option--highlight&quot;]/div[@class=&quot;vue-treeselect__label-container&quot;]/div[@class=&quot;vue-treeselect__checkbox-container&quot;]</value>
+      <webElementGuid>51933c61-216c-4853-8d8f-cc5885cee9ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__248']/div/div/div[2]/div/div/div[2]/div/div/div</value>
+      <webElementGuid>6e49320a-aed3-4aa0-a444-cf4eabc598c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Submitted'])[1]/following::div[4]</value>
+      <webElementGuid>579a43a2-1a19-44b3-a9bc-04e0211abfb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select...'])[1]/following::div[15]</value>
+      <webElementGuid>13a5a050-84e1-43cf-a70f-a0860309dca2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Changed'])[4]/preceding::div[1]</value>
+      <webElementGuid>553ee2ef-8dc7-4929-bd34-0a7ecb013dcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Dispatched'])[3]/preceding::div[2]</value>
+      <webElementGuid>389fe22c-572e-4710-828e-3bb21142da71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/div/div/div[2]/div/div/div</value>
+      <webElementGuid>b427fdfb-747e-4bbe-b2b9-fe7f03a9e608</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_4000 United Fuel 815 NW 17th Ave Chiefland, FL</name>
+   <tag></tag>
+   <elementGuidId>2a5b778b-688b-4021-ac6a-b3b21d924cd1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.vs__dropdown-option.vs__dropdown-option--highlight</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ddlDeliverySite']/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>06689a97-9c2e-4763-82b5-0fbda19f0adc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>259dc9d2-abab-4a49-9c12-db6465420a4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vs__dropdown-option vs__dropdown-option--highlight</value>
+      <webElementGuid>c78a856e-ca8e-4dc0-8448-ef8837b900e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> #4000 United Fuel 815 NW 17th Ave Chiefland, FL</value>
+      <webElementGuid>e09383a4-ec58-4382-aa7d-56affc7450bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ddlDeliverySite&quot;)/ul[@class=&quot;vs__dropdown-menu vs__fade-leave-active vs__fade-leave-to&quot;]/li[@class=&quot;vs__dropdown-option vs__dropdown-option--highlight&quot;]</value>
+      <webElementGuid>b90d8421-4f77-45ed-96a1-63a40b853dab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ddlDeliverySite']/ul/li</value>
+      <webElementGuid>0f45be08-3f7f-4056-adac-15c23765582e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[1]/following::li[1]</value>
+      <webElementGuid>ea34317b-9a46-4a30-a9a0-f030a104b7ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#4000 United Fuel, Chiefland, FL'])[1]/following::li[1]</value>
+      <webElementGuid>1b24589e-af3d-4e17-8a0c-ae40ff6aa8f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='#4000 United Fuel']/parent::*</value>
+      <webElementGuid>8c757677-7568-444a-ace5-c0e60f1409e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li</value>
+      <webElementGuid>3b63a9d2-edb1-45dd-8f77-5f97e827935a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = ' #4000 United Fuel 815 NW 17th Ave Chiefland, FL' or . = ' #4000 United Fuel 815 NW 17th Ave Chiefland, FL')]</value>
+      <webElementGuid>338ad7bf-e4ea-410f-a79e-0e0d4b90b104</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

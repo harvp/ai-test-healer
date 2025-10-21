@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Meijer  283, Oak Creek, WI</name>
+   <tag></tag>
+   <elementGuidId>6dc092f2-c13a-4707-abce-47160fcfc2c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.vs__dropdown-option.vs__dropdown-option--highlight > div.wordwrap</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ddlDeliverySite']/ul/li[4]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>be1ed197-9163-445c-9b6b-8bb4530b0f42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wordwrap</value>
+      <webElementGuid>1981d529-a18d-4023-84f3-8d7b5300a42d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Meijer  283, Oak Creek, WI </value>
+      <webElementGuid>a5a0d6ea-7d3b-405f-a584-0b1fb89a272a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ddlDeliverySite&quot;)/ul[@class=&quot;vs__dropdown-menu vs__fade-leave-active vs__fade-leave-to&quot;]/li[@class=&quot;vs__dropdown-option vs__dropdown-option--highlight&quot;]/div[@class=&quot;wordwrap&quot;]</value>
+      <webElementGuid>9e29f081-8903-42d6-8956-cd85667170ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fcc9d17d-17f2-4792-8a7a-fbb60c396305</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wordwrap</value>
+      <webElementGuid>2e798d43-fdf8-4c47-9023-68eed47c34cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Meijer  283, Oak Creek, WI </value>
+      <webElementGuid>375897e5-db49-466d-a7a6-beb0fd3ea661</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ddlDeliverySite&quot;)/ul[@class=&quot;vs__dropdown-menu vs__fade-leave-active vs__fade-leave-to&quot;]/li[@class=&quot;vs__dropdown-option vs__dropdown-option--highlight&quot;]/div[@class=&quot;wordwrap&quot;]</value>
+      <webElementGuid>2c05deb4-7930-407c-8423-5710a613cb80</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ddlDeliverySite']/ul/li[4]/div</value>
+      <webElementGuid>5dd15197-d893-4425-940a-31c055be9762</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/div</value>
+      <webElementGuid>b2527837-4b4e-4344-aa9a-6542d1cf18ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Meijer  283, Oak Creek, WI ' or . = ' Meijer  283, Oak Creek, WI ')]</value>
+      <webElementGuid>91b37265-327e-474d-bf6c-c33609838bf1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

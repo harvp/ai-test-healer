@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_Hunt Refining  1855 FAIRLAWN ROAD Tuscaloosa, AL</name>
+   <tag></tag>
+   <elementGuidId>a9303001-4b89-436f-8ee0-a5e4392b0837</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ddlShipper']/ul</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.vs__dropdown-menu</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>15a99f74-7ffb-4776-9bad-2603d5b4e8a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>listbox</value>
+      <webElementGuid>2bc19486-ddaa-4fc9-ac35-c7fb638181b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vs__dropdown-menu</value>
+      <webElementGuid>71d61ce4-fe65-4c2b-a42e-b1410e5fbe32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Hunt Refining  1855 FAIRLAWN ROAD Tuscaloosa, AL  </value>
+      <webElementGuid>03901ecb-1127-49b2-8ea9-82b0913e0784</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ddlShipper&quot;)/ul[@class=&quot;vs__dropdown-menu&quot;]</value>
+      <webElementGuid>cd1a619e-ddd7-410c-908b-10c7dd476ff1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ddlShipper']/ul</value>
+      <webElementGuid>7e820b0d-6a58-40bb-860b-9d516979b367</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[2]/following::ul[1]</value>
+      <webElementGuid>bd862640-44ff-404f-b8ad-16f11c3dffd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipper'])[1]/following::ul[1]</value>
+      <webElementGuid>1121c3d8-36c8-47e1-817b-4d9f0efea2e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipper is required.'])[1]/preceding::ul[1]</value>
+      <webElementGuid>10ad3ba2-5615-45b9-9475-f6b59c9ec01b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul</value>
+      <webElementGuid>81ae6147-2a65-4664-a243-0080886458d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = ' Hunt Refining  1855 FAIRLAWN ROAD Tuscaloosa, AL  ' or . = ' Hunt Refining  1855 FAIRLAWN ROAD Tuscaloosa, AL  ')]</value>
+      <webElementGuid>0ccddd3f-6638-4d77-8c38-32ce85c9b8ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

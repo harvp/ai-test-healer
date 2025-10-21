@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ARCO 902008610007447 (Id A0861000)</name>
+   <tag></tag>
+   <elementGuidId>a7a96334-1e9e-4fd1-8e07-8fd6f381fb78</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collapse-advanced']/div[3]/div[2]/div/div/div[3]/ul/li/span/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.option__desc</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9e6acbcf-2416-4c5f-99db-005964eaf89f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>option__desc</value>
+      <webElementGuid>f091f547-b742-4144-8fce-efd689dfdd91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ARCO 90200861000/7447 (Id: A0861000)</value>
+      <webElementGuid>fef08c3c-e46a-4f9d-99cf-106d76ec3789</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapse-advanced&quot;)/div[@class=&quot;form-row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;mb-3&quot;]/div[@class=&quot;multiselect multiselect--active&quot;]/div[@class=&quot;multiselect__content-wrapper&quot;]/ul[@class=&quot;multiselect__content&quot;]/li[@class=&quot;multiselect__element&quot;]/span[@class=&quot;multiselect__option multiselect__option--highlight&quot;]/div[@class=&quot;option__desc&quot;]</value>
+      <webElementGuid>be08a232-9c4c-452c-837d-6e578906dc45</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapse-advanced']/div[3]/div[2]/div/div/div[3]/ul/li/span/div</value>
+      <webElementGuid>11ffb894-0c7b-463b-86de-2200afb9daad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Of'])[1]/following::div[8]</value>
+      <webElementGuid>57044ed3-ac50-4db8-b75f-7ce3936d2b7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List is empty.'])[7]/following::div[9]</value>
+      <webElementGuid>4418b5b7-a22b-40e1-845e-d8c21b72b850</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BIG WEST (Id: BIGWEST)'])[1]/preceding::div[1]</value>
+      <webElementGuid>d3c60c38-1a46-4144-8fac-9a63f755d6a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cambeck (Id: CAMBECK)'])[1]/preceding::div[2]</value>
+      <webElementGuid>6d1eb8e9-1f60-4efb-99f0-ba1f417690c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ARCO 90200861000/7447 (Id: A0861000)']/parent::*</value>
+      <webElementGuid>3dc9b58c-8885-4f54-8c45-fa1411459519</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div</value>
+      <webElementGuid>aad1341e-2789-4690-801e-fa4ccd9e8429</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ARCO 90200861000/7447 (Id: A0861000)' or . = 'ARCO 90200861000/7447 (Id: A0861000)')]</value>
+      <webElementGuid>812831f6-a9cf-4ce8-b9b8-07701007ad83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Order SubmittedOrder ChangedOrder Dispa_0f8757</name>
+   <tag></tag>
+   <elementGuidId>ddf2f851-c831-4b13-bcdf-becff19b539a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__BVID__382']/div/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.vue-treeselect__list</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>db6dcff9-1d77-4393-83c0-4cb7d5b5e80d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vue-treeselect__list</value>
+      <webElementGuid>3532c315-510f-44d2-a197-90c2d9d844db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Order SubmittedOrder ChangedOrder DispatchedOrder LoadingOrder CompleteOrder Invoice AvailableOrder UndispatchedOrder Delivered (details pending)Order CancelledOrder PlannedOrder LoadedDelivery ArrivalDelivery CompleteSource ChangeOrder ConfirmedLoading Freight InformationOrder Accepted</value>
+      <webElementGuid>91cfd3e3-7b22-422b-8a06-1f4f346559aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__382&quot;)/div[@class=&quot;bv-no-focus-ring&quot;]/div[@class=&quot;vue-treeselect vue-treeselect--multi vue-treeselect--searchable vue-treeselect--focused vue-treeselect--has-value vue-treeselect--open vue-treeselect--open-below&quot;]/div[@class=&quot;vue-treeselect__menu-container&quot;]/div[@class=&quot;vue-treeselect__menu&quot;]/div[@class=&quot;vue-treeselect__list&quot;]</value>
+      <webElementGuid>b399355b-fa9d-4f77-83d4-4a604d27b6fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__382']/div/div/div[2]/div/div</value>
+      <webElementGuid>08f7101a-797c-452c-af40-603301c23dca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select...'])[1]/following::div[7]</value>
+      <webElementGuid>6b31ebd3-39be-400f-928d-87d8c968237f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Undispatched'])[8]/following::div[8]</value>
+      <webElementGuid>b2e670c3-9680-48d9-9268-b0603e956f4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div[2]/div/div</value>
+      <webElementGuid>8308592e-5357-4486-8f17-1ef0bbb17e92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Order SubmittedOrder ChangedOrder DispatchedOrder LoadingOrder CompleteOrder Invoice AvailableOrder UndispatchedOrder Delivered (details pending)Order CancelledOrder PlannedOrder LoadedDelivery ArrivalDelivery CompleteSource ChangeOrder ConfirmedLoading Freight InformationOrder Accepted' or . = 'Order SubmittedOrder ChangedOrder DispatchedOrder LoadingOrder CompleteOrder Invoice AvailableOrder UndispatchedOrder Delivered (details pending)Order CancelledOrder PlannedOrder LoadedDelivery ArrivalDelivery CompleteSource ChangeOrder ConfirmedLoading Freight InformationOrder Accepted')]</value>
+      <webElementGuid>f277e17c-a5a6-4c9a-ae01-4a645e2a9ab8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

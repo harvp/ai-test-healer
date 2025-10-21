@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_2 DIESEL</name>
+   <tag></tag>
+   <elementGuidId>ae4eb811-1611-410d-aeef-8947de389252</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__BVID__180']/div/div/div/div[3]/div[8]/div/div/div[3]/ul/li/span/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.multiselect.multiselect--active > div.multiselect__content-wrapper > ul.multiselect__content > li.multiselect__element > span.multiselect__option.multiselect__option--highlight > div.option__desc</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>db0dcb9c-30bd-4c81-8c57-464405b554f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>option__desc</value>
+      <webElementGuid>2a410dac-ab56-4ea6-9f25-036de5a39345</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>#2 DIESEL, ULTRA LOW SULFUR, CLEAR (Id: D2UC)</value>
+      <webElementGuid>1baaec20-2d97-4da8-98e5-a8f000fcebcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__180&quot;)/div[@class=&quot;mb-3&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;col-lg-6&quot;]/div[@class=&quot;mb-3&quot;]/div[@class=&quot;multiselect multiselect--active&quot;]/div[@class=&quot;multiselect__content-wrapper&quot;]/ul[@class=&quot;multiselect__content&quot;]/li[@class=&quot;multiselect__element&quot;]/span[@class=&quot;multiselect__option multiselect__option--highlight&quot;]/div[@class=&quot;option__desc&quot;]</value>
+      <webElementGuid>a25d94c4-923e-43e4-ab8f-f57419aabc48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__180']/div/div/div/div[3]/div[8]/div/div/div[3]/ul/li/span/div</value>
+      <webElementGuid>c9eeec59-c559-421b-a8f3-3e594050db87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Commodities'])[1]/following::div[7]</value>
+      <webElementGuid>60ba4f76-5ae0-4ba2-892d-7c70e2830f8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List is empty.'])[6]/following::div[9]</value>
+      <webElementGuid>42c0c016-6c83-41d8-b581-f3d6e1561d1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#2 DIESEL, ULTRA LOW SULFUR, WINTERIZIED (Id: D2UCW)'])[1]/preceding::div[1]</value>
+      <webElementGuid>1743afd3-966e-459a-89b8-e4ee958688da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADDITIVE FOR ULTRA CLEAR DIESEL (Id: ADDULT)'])[1]/preceding::div[4]</value>
+      <webElementGuid>bf2f1de4-b831-4f9b-92d9-d738236044b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='#2 DIESEL, ULTRA LOW SULFUR, CLEAR (Id: D2UC)']/parent::*</value>
+      <webElementGuid>d2cdbefd-2780-468c-8552-efc85d9c964d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div[3]/ul/li/span/div</value>
+      <webElementGuid>30fa5f85-2d57-4377-af59-a368377b791c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '#2 DIESEL, ULTRA LOW SULFUR, CLEAR (Id: D2UC)' or . = '#2 DIESEL, ULTRA LOW SULFUR, CLEAR (Id: D2UC)')]</value>
+      <webElementGuid>c928bbed-3364-42c8-b5ed-75e632f688c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__452']/div/div/div/div[3]/div[8]/div/div/div[3]/ul/li/span/div</value>
+      <webElementGuid>d02e3989-eac7-4f72-8846-27a6c8225a5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__145']/div/div/div/div[3]/div[8]/div/div/div[4]/ul/li/span/div</value>
+      <webElementGuid>f404733a-af32-48ad-802f-d0aee16be575</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Commodities'])[1]/following::div[8]</value>
+      <webElementGuid>0cf44fd1-4543-47f2-8b34-91fc1b4aca32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List is empty.'])[6]/following::div[10]</value>
+      <webElementGuid>dbb21539-402b-4b8d-a59d-829875662b96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GAS, 87 OCTANE, 10.0% ETHANOL, 9.0 RVP (Id: G8790090)'])[1]/preceding::div[1]</value>
+      <webElementGuid>5a1cc1b0-e649-4f3e-8577-f4569d6674ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GAS, 87 OCTANE, NO ETHANOL (Id: G8700000)'])[1]/preceding::div[2]</value>
+      <webElementGuid>29fa9120-094a-412e-afa6-b81f9c25b585</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div[4]/ul/li/span/div</value>
+      <webElementGuid>52c3556f-ee5d-4365-a75a-e10a48606ae3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

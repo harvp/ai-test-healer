@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Delivery City_multiselect__tags</name>
+   <tag></tag>
+   <elementGuidId>c35cb14c-4350-450d-bbf2-c565d7e43f84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.multiselect.multiselect--active > div.multiselect__tags</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collapse-advanced']/div[4]/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>84edd898-7268-4ae2-831a-ee649a966c51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>multiselect__tags</value>
+      <webElementGuid>ec521609-13fc-4275-8ac2-180ca872d387</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapse-advanced&quot;)/div[@class=&quot;form-row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;mb-3&quot;]/div[@class=&quot;multiselect multiselect--active&quot;]/div[@class=&quot;multiselect__tags&quot;]</value>
+      <webElementGuid>543a8f5a-3159-47fb-97bd-7917553985cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapse-advanced']/div[4]/div/div/div/div[2]</value>
+      <webElementGuid>3953f63f-20bc-43dc-b25a-b17b31ab3a59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery City'])[1]/following::div[4]</value>
+      <webElementGuid>aafa15ef-a5e5-41c7-b74b-c81acc0cf4cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List is empty.'])[8]/following::div[6]</value>
+      <webElementGuid>a27f8f4d-1f84-4fff-b178-6c43bc4d207e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Cities found. Consider changing the search query.'])[1]/preceding::div[3]</value>
+      <webElementGuid>4b6de76d-5f9e-4c2a-99ce-aaa32b140e70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List is empty.'])[9]/preceding::div[3]</value>
+      <webElementGuid>d603069d-2127-4cef-aef4-333837b6b1d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[4]/div/div/div/div[2]</value>
+      <webElementGuid>3cffd807-bc4e-431b-8e3b-14c97b8be065</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

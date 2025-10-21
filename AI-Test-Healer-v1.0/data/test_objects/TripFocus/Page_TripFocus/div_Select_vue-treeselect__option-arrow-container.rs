@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select_vue-treeselect__option-arrow-container</name>
+   <tag></tag>
+   <elementGuidId>901ca4e9-a54e-4d05-951d-393a3250372b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.vue-treeselect__option-arrow-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__BVID__192']/div/div/div[2]/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f14f40ad-7a1b-4f9c-bd81-93ee44a126c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vue-treeselect__option-arrow-container</value>
+      <webElementGuid>7f6da1bc-0bd8-44eb-9077-b63a7254a826</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__192&quot;)/div[@class=&quot;bv-no-focus-ring&quot;]/div[@class=&quot;vue-treeselect vue-treeselect--multi vue-treeselect--searchable vue-treeselect--focused vue-treeselect--has-value vue-treeselect--open vue-treeselect--open-below&quot;]/div[@class=&quot;vue-treeselect__menu-container&quot;]/div[@class=&quot;vue-treeselect__menu&quot;]/div[@class=&quot;vue-treeselect__list&quot;]/div[@class=&quot;vue-treeselect__list-item vue-treeselect__indent-level-0&quot;]/div[@class=&quot;vue-treeselect__option vue-treeselect__option--selected vue-treeselect__option--highlight&quot;]/div[@class=&quot;vue-treeselect__option-arrow-container&quot;]</value>
+      <webElementGuid>9f1accd5-fe22-4157-b2c2-818e7e23c8ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__192']/div/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>4cb2172c-1e2c-4361-b0e7-62bed8455438</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select...'])[1]/following::div[10]</value>
+      <webElementGuid>adba833b-4d53-466a-8b40-6d2e39d26bbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LoadTenderPermissions - CreateAdHoc'])[1]/following::div[11]</value>
+      <webElementGuid>5d272f46-e6b9-4211-9859-b937bb583929</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LoadTenderPermissions'])[1]/preceding::div[2]</value>
+      <webElementGuid>20c77377-e97c-4cf6-90b1-20935f96a27b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LoadTenderPermissions - View'])[2]/preceding::div[5]</value>
+      <webElementGuid>d41a505c-fe39-40c7-9238-b9d1918eb7b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div/div/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>2667013b-d2ad-488e-9691-ea58b5ba06b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

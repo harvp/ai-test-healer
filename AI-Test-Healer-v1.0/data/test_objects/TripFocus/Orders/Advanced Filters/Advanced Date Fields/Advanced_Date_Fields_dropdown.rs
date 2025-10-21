@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Advanced_Date_Fields_dropdown</name>
+   <tag></tag>
+   <elementGuidId>e4b25aca-6a84-481b-96f1-da9434bd0a45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;slide-out-panel-459238b4-8b7e-4bc3-a9af-5142fb75c7ad&quot;]/div/div[5]/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@aria-controls = 'collapse-dates' and @class = 'pointer']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>collapse-dates</value>
+      <webElementGuid>7d75f556-a237-45a5-b4d0-cc1b97fc2acc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pointer</value>
+      <webElementGuid>bd23c0c0-8936-4580-bea0-fbd11b2ae57d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Create Order</name>
+   <tag></tag>
+   <elementGuidId>80177aa0-b5a9-41be-8e0c-0d9fd1ceca81</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btnCreateOrder</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='btnCreateOrder']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>96340c61-8119-4097-9e03-a53ae1dd0e19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnCreateOrder</value>
+      <webElementGuid>4c5e6c8a-ad0b-48f1-b85b-097b42db011f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>variant</name>
+      <type>Main</type>
+      <value>outline-primary</value>
+      <webElementGuid>4082a978-4a29-4e56-9dac-3a4ced34cdc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-outline-primary</value>
+      <webElementGuid>9b2d79e4-9f2f-4b31-b633-944c23e23667</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Order </value>
+      <webElementGuid>96bba9f5-9b66-452e-b15b-964d0d7d934c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnCreateOrder&quot;)</value>
+      <webElementGuid>d490c585-8736-4360-a571-6471a08854c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='btnCreateOrder']</value>
+      <webElementGuid>5529e40e-3d92-497b-bec3-850d1bfb7ac6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cardTemplateCard']/div/div[3]/div/div/div/div/div[4]/a</value>
+      <webElementGuid>a039a6ca-4ca9-476a-997f-ed95962bd73b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Create Order')]</value>
+      <webElementGuid>b93f60fa-9b7b-4d0d-a483-87b1dd903366</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#4000 United Fuel, 815 NW 17th Ave Chiefland, FL 32626'])[1]/following::a[1]</value>
+      <webElementGuid>dde540f1-690e-4317-b8a7-6ededa5305e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CARY OIL CO'])[1]/following::a[1]</value>
+      <webElementGuid>b60731a6-d3ed-4850-86b5-df7b1d2b86ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Products'])[1]/preceding::a[1]</value>
+      <webElementGuid>27312712-1acd-490e-b8f5-09ead16ad775</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipper'])[1]/preceding::a[1]</value>
+      <webElementGuid>74d4e149-abd4-46d7-b4b6-f6e2dbad73b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create Order']/parent::*</value>
+      <webElementGuid>eb8f64eb-c146-4610-bfeb-f0b346b237c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a</value>
+      <webElementGuid>9ef2a655-5964-4d0a-8ed1-825933fde0a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'btnCreateOrder' and (text() = ' Create Order ' or . = ' Create Order ')]</value>
+      <webElementGuid>4a20a1f0-4f94-4674-be46-9f306e32d5ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

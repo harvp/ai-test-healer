@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Review Order Tender_fa fa-search</name>
+   <tag></tag>
+   <elementGuidId>8a5f155d-f473-4e48-b710-013e464d0b07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-search</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='slide-out-panel-be7a097e-ea42-e8f0-d286-7e28141d5eaa']/section/div[2]/div/div/div/div/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>3ff35d69-8c15-4ba9-952f-262cb4f87a47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-search</value>
+      <webElementGuid>459267c1-efef-4c05-9c11-e1cbc182f8e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slide-out-panel-be7a097e-ea42-e8f0-d286-7e28141d5eaa&quot;)/section[@class=&quot;container&quot;]/div[@class=&quot;row justify-content-end mb-4 header-row&quot;]/div[@class=&quot;col-sm-12 col-md-4 col-lg-4&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;input-group&quot;]/div[@class=&quot;input-group-append&quot;]/button[@class=&quot;btn btn-primary&quot;]/i[@class=&quot;fa fa-search&quot;]</value>
+      <webElementGuid>c2a44d8a-8e66-4c72-969f-c5419a668dc5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slide-out-panel-be7a097e-ea42-e8f0-d286-7e28141d5eaa']/section/div[2]/div/div/div/div/button/i</value>
+      <webElementGuid>cfb4bb87-9227-4ec9-8250-a93a2b131a91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/button/i</value>
+      <webElementGuid>86568cce-bf3f-42d0-8466-c59f30979a42</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Loading</name>
+   <tag></tag>
+   <elementGuidId>97637e04-8aae-479b-b2c5-5501f70dbb96</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ddlCommodity']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ddlCommodity > div.vs__dropdown-toggle > div.vs__actions</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>011ee3ef-d000-417f-b048-bf46f4431d7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vs__actions</value>
+      <webElementGuid>5a690989-ebb3-4657-b85e-382d05fc21d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Loading...</value>
+      <webElementGuid>d91b14ce-6cc5-4be1-8a4c-10a30f75ab30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ddlCommodity&quot;)/div[@class=&quot;vs__dropdown-toggle&quot;]/div[@class=&quot;vs__actions&quot;]</value>
+      <webElementGuid>23f56c75-aa07-4963-924e-a449b6dfd8c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ddlCommodity']/div/div[2]</value>
+      <webElementGuid>4a456389-c267-44e3-b4c6-73b04445a169</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Commodity'])[1]/following::div[4]</value>
+      <webElementGuid>d457a39d-f750-4b7f-828a-10df69e27ca2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Of is required.'])[1]/following::div[6]</value>
+      <webElementGuid>a264276b-a3c3-4b4b-9f54-cd8d0d007592</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#2 Diesel, Ultra Low Sulfur, Clear'])[1]/preceding::div[2]</value>
+      <webElementGuid>5851d3f8-513b-4889-b079-f497c006aae2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]</value>
+      <webElementGuid>a7b16f3c-85d0-4f68-be94-e1d7e747cee4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '  Loading...' or . = '  Loading...')]</value>
+      <webElementGuid>257518cb-a0cd-4b53-96c9-0fef90e98709</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Chevron--macon</name>
+   <tag></tag>
+   <elementGuidId>cac89a28-aaa3-43ae-9a34-77d4cf9d8e8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.vs__dropdown-option.vs__dropdown-option--highlight</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ddlShipper']/ul/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>febcf4f1-2a3a-4fdf-a44b-dc3b947954e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>1cc3de1f-96e9-40cd-9336-ccb266556d91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vs__dropdown-option vs__dropdown-option--highlight</value>
+      <webElementGuid>4396d552-5cd4-40a8-9500-b41b8735b0c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+          Chevron--macon
+        </value>
+      <webElementGuid>11487c12-1215-4716-aecf-5985c89a7e97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ddlShipper&quot;)/ul[@class=&quot;vs__dropdown-menu vs__fade-leave-active vs__fade-leave-to&quot;]/li[@class=&quot;vs__dropdown-option vs__dropdown-option--highlight&quot;]</value>
+      <webElementGuid>a84a7c3b-72f3-4291-964c-cf88f23917df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ddlShipper']/ul/li[2]</value>
+      <webElementGuid>d605a158-392a-4b3f-b55b-46aac5ce80dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Call Dispatch'])[1]/following::li[1]</value>
+      <webElementGuid>62c80430-f4f6-4142-bd88-f1f90b6fe819</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[2]/following::li[2]</value>
+      <webElementGuid>5e351bd7-48f9-4daf-aa38-5e9f65c5c2d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Motiva - Birmingham'])[1]/preceding::li[1]</value>
+      <webElementGuid>a92b28e0-bc02-486f-94ee-d941562d4e95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Murphy Oil'])[1]/preceding::li[2]</value>
+      <webElementGuid>dbaacca7-23dc-4fe2-be8c-0830a102febc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[2]</value>
+      <webElementGuid>040c6c1f-bd82-414a-aa42-05961c54f1fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '
+          Chevron--macon
+        ' or . = '
+          Chevron--macon
+        ')]</value>
+      <webElementGuid>2536c618-a9c2-4313-85a4-26514983f730</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

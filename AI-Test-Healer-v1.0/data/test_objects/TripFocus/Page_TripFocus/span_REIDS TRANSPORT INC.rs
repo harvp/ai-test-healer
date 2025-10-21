@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_REIDS TRANSPORT INC</name>
+   <tag></tag>
+   <elementGuidId>90c4b134-6159-4ce8-941f-4518731f29ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collapse-advanced']/div[2]/div[2]/div/div/div[3]/ul/li/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.multiselect.multiselect--active > div.multiselect__content-wrapper > ul.multiselect__content > li.multiselect__element > span.multiselect__option.multiselect__option--highlight</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2fce8bfd-24c9-4570-ab32-0f453e22bdc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> REIDS TRANSPORT INC</value>
+      <webElementGuid>7d179e9c-339b-44eb-9b12-73a0324cfda8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapse-advanced&quot;)/div[@class=&quot;form-row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;mb-3&quot;]/div[@class=&quot;multiselect multiselect--active&quot;]/div[@class=&quot;multiselect__content-wrapper&quot;]/ul[@class=&quot;multiselect__content&quot;]/li[@class=&quot;multiselect__element&quot;]/span[@class=&quot;multiselect__option multiselect__option--highlight&quot;]</value>
+      <webElementGuid>f1eb37d3-4744-4831-8bef-b0f4f957cd9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select</name>
+      <type>Main</type>
+      <value>Press enter to select</value>
+      <webElementGuid>af77fd60-7dff-425c-98e4-76c204956a80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-selected</name>
+      <type>Main</type>
+      <value>Selected</value>
+      <webElementGuid>9210d8e3-dde2-4615-a1f4-20ab735d9ca4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-deselect</name>
+      <type>Main</type>
+      <value>Press enter to remove</value>
+      <webElementGuid>2f3c563e-129e-4f71-9da1-d97859f187d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>multiselect__option multiselect__option--highlight</value>
+      <webElementGuid>ac3fc94f-975a-462b-b5e4-6cbb9d5d218e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapse-advanced']/div[2]/div[2]/div/div/div[3]/ul/li/span</value>
+      <webElementGuid>acab0f99-fed1-4f3d-a492-1862c451bf30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Carrier'])[1]/following::span[1]</value>
+      <webElementGuid>ab2b1c22-0b17-4c47-937a-8ff31417e78e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List is empty.'])[5]/following::span[1]</value>
+      <webElementGuid>f059937a-8d3f-4ea8-b5a4-6d1c9275a937</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A &amp; P TRANSPORTS LLC'])[1]/preceding::span[6]</value>
+      <webElementGuid>63afba31-bdaf-49fa-b25d-63f267d8067f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div[2]/div/div/div[3]/ul/li/span</value>
+      <webElementGuid>f3907692-f069-4a79-a90f-cd42afec8f3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' REIDS TRANSPORT INC' or . = ' REIDS TRANSPORT INC')]</value>
+      <webElementGuid>139ace88-ee7a-4d0d-864a-d1d5afe77379</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapse-advanced']/div[2]/div[2]/div/div/div[3]/ul/li/span/span</value>
+      <webElementGuid>96fe2207-7b8b-47c5-b738-823df2561de9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Carrier'])[1]/following::span[2]</value>
+      <webElementGuid>23d0eb4c-03dc-42c0-aa00-d3470a5d14a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List is empty.'])[5]/following::span[2]</value>
+      <webElementGuid>0312fea3-7546-4bd3-be4d-7e4324cc4cca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A &amp; P TRANSPORTS LLC'])[1]/preceding::span[5]</value>
+      <webElementGuid>89b7b1c3-76d7-4acb-9faf-d7fade7a6803</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A P MARQUARDT INC'])[1]/preceding::span[7]</value>
+      <webElementGuid>7778d2d6-f712-4cd6-a4c6-5fd0e79832e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='REIDS TRANSPORT INC']/parent::*</value>
+      <webElementGuid>d748d19f-7221-40f6-87b2-2cae50cd7167</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div[2]/div/div/div[3]/ul/li/span/span</value>
+      <webElementGuid>ecc86d1c-372a-46ad-8367-129df5a80de0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

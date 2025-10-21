@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_ImagePermissions</name>
+   <tag></tag>
+   <elementGuidId>b7fd4f71-e374-4415-a8bd-837bde2e8997</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.vue-treeselect__option.vue-treeselect__option--selected.vue-treeselect__option--highlight > div.vue-treeselect__label-container > label.vue-treeselect__label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__BVID__207']/div/div/div[2]/div/div/div[3]/div/div[2]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>4f3071a1-1534-4ffc-a066-723966ec3e15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vue-treeselect__label</value>
+      <webElementGuid>cbe0ece3-12f3-43db-948d-cc6ae7dcdcd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> ImagePermissions </value>
+      <webElementGuid>52ed71aa-a2d1-4780-bf53-2379662a6ad8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__207&quot;)/div[@class=&quot;bv-no-focus-ring&quot;]/div[@class=&quot;vue-treeselect vue-treeselect--multi vue-treeselect--searchable vue-treeselect--focused vue-treeselect--has-value vue-treeselect--open vue-treeselect--open-below&quot;]/div[@class=&quot;vue-treeselect__menu-container&quot;]/div[@class=&quot;vue-treeselect__menu&quot;]/div[@class=&quot;vue-treeselect__list&quot;]/div[@class=&quot;vue-treeselect__list-item vue-treeselect__indent-level-0&quot;]/div[@class=&quot;vue-treeselect__option vue-treeselect__option--selected vue-treeselect__option--highlight&quot;]/div[@class=&quot;vue-treeselect__label-container&quot;]/label[@class=&quot;vue-treeselect__label&quot;]</value>
+      <webElementGuid>5bb914de-8a3a-4bd4-bf66-cc813861cfa4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__207']/div/div/div[2]/div/div/div[3]/div/div[2]/label</value>
+      <webElementGuid>bdb16417-c946-493b-a9ae-f69f0f68eab3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UserManagementPermissions'])[1]/following::label[1]</value>
+      <webElementGuid>9ca86fe6-d759-4e24-9439-827e7e615ee6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LoadTenderPermissions'])[1]/following::label[2]</value>
+      <webElementGuid>74205d10-bf8c-4446-8cd1-22d633e80a4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OrderMapsPermissions'])[1]/preceding::label[1]</value>
+      <webElementGuid>d01735f0-9ec0-4dc6-966c-356efd33ce96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CustomerTemplatePermissions'])[1]/preceding::label[2]</value>
+      <webElementGuid>57c8d7e4-83f2-40d4-afa4-add40848ea31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ImagePermissions']/parent::*</value>
+      <webElementGuid>261b34a0-0fec-4db2-9d6f-49d9ee3f1eeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/label</value>
+      <webElementGuid>d9730f94-3224-41eb-94f6-0c093750e02f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = ' ImagePermissions ' or . = ' ImagePermissions ')]</value>
+      <webElementGuid>18f53894-13d9-4ae1-bdf4-363d127a2801</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

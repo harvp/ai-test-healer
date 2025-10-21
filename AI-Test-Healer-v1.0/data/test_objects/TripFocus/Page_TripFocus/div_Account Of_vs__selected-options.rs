@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Account Of_vs__selected-options</name>
+   <tag></tag>
+   <elementGuidId>31273c2d-90d7-4b08-926f-96284d48cbca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ddlAccountOf > div.vs__dropdown-toggle > div.vs__selected-options</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ddlAccountOf']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>24dfbd38-661e-4d08-804a-064af2c84fc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vs__selected-options</value>
+      <webElementGuid>af2db917-e0a7-4899-8709-3c99754ca36b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ddlAccountOf&quot;)/div[@class=&quot;vs__dropdown-toggle&quot;]/div[@class=&quot;vs__selected-options&quot;]</value>
+      <webElementGuid>dc9247e2-b0fb-49ad-b846-1345c771a576</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ddlAccountOf']/div/div</value>
+      <webElementGuid>f17833bd-fcee-4f48-a5c5-bd5c242e187e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Of'])[1]/following::div[3]</value>
+      <webElementGuid>fb188713-a6aa-40a4-a167-6f9f9bc5405c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valero Unbranded'])[2]/following::div[4]</value>
+      <webElementGuid>c7ceeadc-12d4-4a35-8cfd-02762c40fdbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[4]/preceding::div[1]</value>
+      <webElementGuid>882be5ec-9b0a-4050-8fe7-49ba988da376</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Commodity'])[1]/preceding::div[3]</value>
+      <webElementGuid>38f199ca-86a2-49ec-8c6e-9145becc3be6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div/div</value>
+      <webElementGuid>db3c98fb-b480-44ff-ac88-bf6ac0936db0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

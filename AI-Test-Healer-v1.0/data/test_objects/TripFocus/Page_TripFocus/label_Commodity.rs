@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Commodity</name>
+   <tag></tag>
+   <elementGuidId>43c9dcd9-876c-42fb-9af6-ee4f887734f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.pd-10.col-sm-6.col-md-8.col-lg-8 > label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='slide-out-panel-3529a79e-97a6-b100-3f70-f7f5727f49ac']/section/div[3]/div/div[2]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>be8776a6-d980-4ca9-9ff1-6e6d9027944d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Commodity</value>
+      <webElementGuid>684109c1-f136-48c2-8694-c3f087c01710</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slide-out-panel-3529a79e-97a6-b100-3f70-f7f5727f49ac&quot;)/section[@class=&quot;container grey-background&quot;]/div[@class=&quot;card card-box-shadow&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;pd-10 col-sm-6 col-md-8 col-lg-8&quot;]/label[1]</value>
+      <webElementGuid>db42d8ed-daef-4bc3-81cf-d69156d5761b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slide-out-panel-3529a79e-97a6-b100-3f70-f7f5727f49ac']/section/div[3]/div/div[2]/div/label</value>
+      <webElementGuid>36727c72-443e-4a12-9662-e2e81af8b1dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show Advanced Options'])[1]/following::label[1]</value>
+      <webElementGuid>98cd500a-e7c6-438c-a635-5ed0c0290199</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[1]/following::label[1]</value>
+      <webElementGuid>d0670e10-67b6-4dc0-9c13-e8d3509ba301</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[2]/preceding::label[1]</value>
+      <webElementGuid>5c73ea86-575a-494b-b442-38cff3f209ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quantity'])[1]/preceding::label[1]</value>
+      <webElementGuid>420a02a7-5ed5-4e68-a9cb-f0ff5320e625</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Commodity']/parent::*</value>
+      <webElementGuid>9ccff9f3-b0ee-4931-98d2-d839a41bb1ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/label</value>
+      <webElementGuid>e9fdf7ce-ca0c-4ef9-a493-33db1659557a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Commodity' or . = 'Commodity')]</value>
+      <webElementGuid>34563800-9bda-4a82-a456-0064e61c1002</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

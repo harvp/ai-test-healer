@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>View_Applied_Filters_btn</name>
+   <tag></tag>
+   <elementGuidId>6cf5805c-c12a-4dd9-ba04-bf05dbb14f06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and @id = 'btnFilter' and @class = 'btn my-2 btn-success']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e5c7275d-b7d5-4ea4-a4dc-58ed80d0d05d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnFilter</value>
+      <webElementGuid>9b65449d-5681-4a4a-aae3-bfad91807a17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn my-2 btn-success</value>
+      <webElementGuid>bc7e89d4-3b97-4dff-a8c4-5c1f2be7957e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

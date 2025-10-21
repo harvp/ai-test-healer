@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Bhargavi Guggellabhargavijsprautoacceptgmail.comTest-QA-AutoAccept</name>
+   <tag></tag>
+   <elementGuidId>c782f621-b5cc-47a6-8a4b-7ef6b08f05bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.multiselect__option.multiselect__option--highlight > div.option__desc</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[@id='__BVID__139']/div/div/div[4]/ul/li[9]/span/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d9ca305b-2acb-4f30-b66d-c7a3f09146fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>option__desc</value>
+      <webElementGuid>966b8e9a-3d16-43b1-9a41-49d7a258b331</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bhargavi Guggellabhargavijspr+autoaccept@gmail.comTest-QA-AutoAccept</value>
+      <webElementGuid>14e9c512-70ba-412c-a900-68808732f380</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__139&quot;)/div[@class=&quot;bv-no-focus-ring&quot;]/div[@class=&quot;multiselect multiselect--active multiselect--above&quot;]/div[@class=&quot;multiselect__content-wrapper&quot;]/ul[@class=&quot;multiselect__content&quot;]/li[@class=&quot;multiselect__element&quot;]/span[@class=&quot;multiselect__option multiselect__option--highlight&quot;]/div[@class=&quot;option__desc&quot;]</value>
+      <webElementGuid>6308360b-cf5e-46d6-b8c3-bc725c4680bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='__BVID__139']/div/div/div[4]/ul/li[9]/span/div</value>
+      <webElementGuid>c1d0cb87-6ea7-4d10-87e1-b698d368df42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AUTOMATION CUSTOMER FROM UI 46424'])[1]/following::div[1]</value>
+      <webElementGuid>807a8378-54f4-4f9b-b907-694f8951daf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='bhargavijspr+2m@gmail.com'])[1]/following::div[1]</value>
+      <webElementGuid>05d04f5d-3b3c-4f5b-8a5f-99974c10d526</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/span/div</value>
+      <webElementGuid>00fde052-f313-43e9-8ef7-de56809da930</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Bhargavi Guggellabhargavijspr+autoaccept@gmail.comTest-QA-AutoAccept' or . = 'Bhargavi Guggellabhargavijspr+autoaccept@gmail.comTest-QA-AutoAccept')]</value>
+      <webElementGuid>f5b4785a-caf3-41e2-86db-4be35d2ee495</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

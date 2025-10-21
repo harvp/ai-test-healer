@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_1774 WEST LANE ROAD MacHesney Park, IL</name>
+   <tag></tag>
+   <elementGuidId>afe7b6cb-4902-456c-a10f-cbdf65b4db66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='spnDelvieryStieOptionCityStateText']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#spnDelvieryStieOptionCityStateText</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0cde2314-eedb-4f21-96a1-aebe4f32ef82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>spnDelvieryStieOptionCityStateText</value>
+      <webElementGuid>a92d0826-debf-490d-8d49-fd1320aaa6e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>city-state-text</value>
+      <webElementGuid>f4450f72-f172-4442-aa24-6e74ba0eceb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1774 WEST LANE ROAD MacHesney Park, IL</value>
+      <webElementGuid>d82ef0cd-fc81-45c2-b408-870c475085de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ddlDeliverySite&quot;)/ul[@class=&quot;vs__dropdown-menu vs__fade-leave-active vs__fade-leave-to&quot;]/li[@class=&quot;vs__dropdown-option vs__dropdown-option--highlight&quot;]/span[@id=&quot;spnDelvieryStieOptionCityStateText&quot;]</value>
+      <webElementGuid>5eeeef46-be87-4c52-beaa-c6da2b346650</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='spnDelvieryStieOptionCityStateText']</value>
+      <webElementGuid>59b27bed-ef89-47e4-9f5d-55b7f928db9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ddlDeliverySite']/ul/li/span</value>
+      <webElementGuid>127da272-7708-43ca-87cb-ee356d988dd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[1]/following::span[1]</value>
+      <webElementGuid>aa407fe4-042b-46dd-bd93-2b49003a2343</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1774 WEST LANE ROAD MacHesney Park, IL']/parent::*</value>
+      <webElementGuid>3bb5317c-cebf-4d0a-8e37-859dafd13af8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/span</value>
+      <webElementGuid>75db4736-8bd9-4558-be20-7f74de7270b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'spnDelvieryStieOptionCityStateText' and (text() = '1774 WEST LANE ROAD MacHesney Park, IL' or . = '1774 WEST LANE ROAD MacHesney Park, IL')]</value>
+      <webElementGuid>ead024f6-8709-48bd-8408-8d7d8824bdd0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Edit_btn</name>
+   <tag></tag>
+   <elementGuidId>657f3d3d-6ef1-46cf-98e6-5b0d197b7ab0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-edit.mr-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btnEditUser']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>a94a5390-dcf6-4038-8642-6d4208b298a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-edit mr-1</value>
+      <webElementGuid>6300a9f4-224c-4fe1-ab80-6fea9abe1d11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__731&quot;)/tbody[1]/tr[1]/td[6]/button[@id=&quot;btnEditUser&quot;]/i[@class=&quot;fa fa-edit mr-1&quot;]</value>
+      <webElementGuid>5ef9fba5-87ec-472f-afb1-ff4279b1dc23</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='btnEditUser']/i</value>
+      <webElementGuid>be88df43-4ac8-490d-b145-08c5ff35cb53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/button/i</value>
+      <webElementGuid>285eb31b-d094-4bb6-ab9b-ae774cfca808</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

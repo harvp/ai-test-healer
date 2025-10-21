@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_UserInfo</name>
+   <tag></tag>
+   <elementGuidId>3c26e57e-a6a3-434e-a456-3e2a1fe66c53</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/main/div/div[2]/div/div/div/div[2]/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>27523cc9-34d2-4059-81bd-8491664fc623</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RafaelTest Test (animasdelmundo2+testing@gmail.com)Id: c03da18e-49ae-4612-a24d-ded62b151552 Customer: meijer (id: 18bd7aed-36bf-4fc4-49fc-08d9d9e8cc00) </value>
+      <webElementGuid>13cf29aa-79f2-4762-aa9e-899c312f117b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;container vld-parent&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;card w-100&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/p[1]</value>
+      <webElementGuid>96c6ab22-8769-43c2-8ab6-14b572aef403</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/main/div/div[2]/div/div/div/div[2]/div/p</value>
+      <webElementGuid>e683f7a4-a4e2-435f-a455-9f0e5e88a37a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='&lt; Back To All Users'])[1]/following::p[1]</value>
+      <webElementGuid>282b86f5-7bc4-42ce-983f-3347f472abb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit User'])[1]/following::p[1]</value>
+      <webElementGuid>0415562f-958c-419e-b737-2efb39b7adae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='c03da18e-49ae-4612-a24d-ded62b151552']/parent::*</value>
+      <webElementGuid>7a7b8e0d-fca2-4ad3-b7d6-bbcf6abb976b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>334ecd29-355d-4a3d-8327-e8e295cb6787</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'RafaelTest Test (animasdelmundo2+testing@gmail.com)Id: c03da18e-49ae-4612-a24d-ded62b151552 Customer: meijer (id: 18bd7aed-36bf-4fc4-49fc-08d9d9e8cc00) ' or . = 'RafaelTest Test (animasdelmundo2+testing@gmail.com)Id: c03da18e-49ae-4612-a24d-ded62b151552 Customer: meijer (id: 18bd7aed-36bf-4fc4-49fc-08d9d9e8cc00) ')]</value>
+      <webElementGuid>a70e73eb-6bba-4742-a72f-ed0d00416ef4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_4000 UNITED FUEL 815 NW 17th Ave Chiefland, FL</name>
+   <tag></tag>
+   <elementGuidId>d88ccafd-d49c-43fc-a5e7-8fa61fc410cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.option__desc</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__BVID__125']/div/div/div[4]/ul/li/span/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e14070e6-ae79-4b6d-ba24-3df496d9f7a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>option__desc</value>
+      <webElementGuid>d61adab3-9b43-46d3-9906-4c3bbca75362</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> #4000 UNITED FUEL 815 NW 17th Ave Chiefland, FL</value>
+      <webElementGuid>a6dd600d-f953-4e71-bff7-4b4544cb3566</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__125&quot;)/div[@class=&quot;bv-no-focus-ring&quot;]/div[@class=&quot;multiselect multiselect--active&quot;]/div[@class=&quot;multiselect__content-wrapper&quot;]/ul[@class=&quot;multiselect__content&quot;]/li[@class=&quot;multiselect__element&quot;]/span[@class=&quot;multiselect__option multiselect__option--highlight&quot;]/div[@class=&quot;option__desc&quot;]</value>
+      <webElementGuid>f9689987-bf7a-4091-8d8c-45ca5a077d19</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__125']/div/div/div[4]/ul/li/span/div</value>
+      <webElementGuid>518fa55b-88f9-4cd5-9442-6fd3089e7af1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery Site'])[1]/following::div[9]</value>
+      <webElementGuid>c7401bbd-2728-435c-b981-7bada1d33dc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Notification'])[1]/following::div[14]</value>
+      <webElementGuid>481cdcfa-66de-41e4-a8f2-c97ad3ef09d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='#4000 UNITED FUEL']/parent::*</value>
+      <webElementGuid>b3c259a9-8a6c-44d0-8e0b-6935336188b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/span/div</value>
+      <webElementGuid>2eb0ea80-6eea-4a6f-b33a-9ba6403850b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' #4000 UNITED FUEL 815 NW 17th Ave Chiefland, FL' or . = ' #4000 UNITED FUEL 815 NW 17th Ave Chiefland, FL')]</value>
+      <webElementGuid>fa85bad1-ef1e-49fc-a745-cd910f4d7b8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__459']/div/div/div[4]/ul/li/span/div</value>
+      <webElementGuid>f17848aa-0b95-42d2-9c34-0a8458f17228</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

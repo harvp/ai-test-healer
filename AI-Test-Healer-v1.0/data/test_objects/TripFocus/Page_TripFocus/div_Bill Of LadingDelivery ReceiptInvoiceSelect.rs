@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Bill Of LadingDelivery ReceiptInvoiceSelect</name>
+   <tag></tag>
+   <elementGuidId>189dd8f8-be8b-4873-84e6-9c6cf1fc043b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#__BVID__297 > div.bv-no-focus-ring > div.vue-treeselect.vue-treeselect--multi.vue-treeselect--searchable.vue-treeselect--disabled.vue-treeselect--has-value.vue-treeselect--open-below > div.vue-treeselect__control > div.vue-treeselect__value-container > div.vue-treeselect__multi-value</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__BVID__297']/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b71a3e6e-e518-4bbe-93f6-033e8c20cbf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vue-treeselect__multi-value</value>
+      <webElementGuid>8547ad69-1664-40f7-bbba-c5e848d4d8f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bill Of LadingDelivery ReceiptInvoiceSelect...</value>
+      <webElementGuid>1c32d094-b3e4-4cc9-a4bb-6dc8830fcdbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__297&quot;)/div[@class=&quot;bv-no-focus-ring&quot;]/div[@class=&quot;vue-treeselect vue-treeselect--multi vue-treeselect--searchable vue-treeselect--disabled vue-treeselect--has-value vue-treeselect--open-below&quot;]/div[@class=&quot;vue-treeselect__control&quot;]/div[@class=&quot;vue-treeselect__value-container&quot;]/div[@class=&quot;vue-treeselect__multi-value&quot;]</value>
+      <webElementGuid>935022e1-e9a8-49aa-bdc5-c12a75384058</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__297']/div/div/div/div/div</value>
+      <webElementGuid>50e5ce58-8930-4579-8b1c-cfaf7945bf1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Image Permissions'])[1]/following::div[5]</value>
+      <webElementGuid>015e6f89-6b37-4090-a9bd-d05ade483d12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minimum of 1 permission required.'])[1]/following::div[8]</value>
+      <webElementGuid>22145c57-5c23-4413-86cb-a457389bd96c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div[3]/div/div/div/div/div/div/div</value>
+      <webElementGuid>fbe8bf2e-fae2-4650-bcfe-fb2676697932</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Bill Of LadingDelivery ReceiptInvoiceSelect...' or . = 'Bill Of LadingDelivery ReceiptInvoiceSelect...')]</value>
+      <webElementGuid>44326f39-53a2-4e0c-82b8-cb8ef6aaf764</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

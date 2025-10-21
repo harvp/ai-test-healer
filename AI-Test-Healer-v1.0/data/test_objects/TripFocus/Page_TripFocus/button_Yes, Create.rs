@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Yes, Create</name>
+   <tag></tag>
+   <elementGuidId>b6d9cd5e-0664-43ac-8326-c1c242a4f33c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.float-right.ml-2.mr-2.btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[21]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@type = 'button' and (text() = 'Yes, Create' or . = 'Yes, Create')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c75c93bb-3567-4c61-9808-32119d7e83d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4efa1734-d93f-49cd-96f8-9fa7efc77ff8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn float-right ml-2 mr-2 btn-primary</value>
+      <webElementGuid>1189944e-0736-402f-a10c-fb4ef8e80df7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yes, Create</value>
+      <webElementGuid>202c9dad-193d-4ed0-8c52-3bcc9d83bf35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__144___BV_modal_footer_&quot;)/div[@class=&quot;w-100&quot;]/button[@class=&quot;btn float-right ml-2 mr-2 btn-primary&quot;]</value>
+      <webElementGuid>9a18b3dd-c02a-4cb7-84f7-3f4d6bf4ff7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[21]</value>
+      <webElementGuid>e9aaf5b1-2f57-48a1-aab2-93cd89b41f06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//footer[@id='__BVID__144___BV_modal_footer_']/div/button[2]</value>
+      <webElementGuid>e91f2f7c-e5cc-4ba4-bb16-427fc3dbebb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No, Keep editing.'])[1]/following::button[1]</value>
+      <webElementGuid>1fc310ae-5fd9-48d7-b7e5-3f91387129a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Darcy Beckman ()'])[2]/following::button[2]</value>
+      <webElementGuid>501ce64e-2b28-4c11-9214-9ae45ffb9623</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Yes, Create']/parent::*</value>
+      <webElementGuid>86c47df5-a4f7-4d78-8d00-a851159ef50b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div/button[2]</value>
+      <webElementGuid>5ac0c46f-ff79-4610-92e1-97c7ab6e2224</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Yes, Create' or . = 'Yes, Create')]</value>
+      <webElementGuid>0bee4a0e-9061-40a6-8426-e907a447701c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

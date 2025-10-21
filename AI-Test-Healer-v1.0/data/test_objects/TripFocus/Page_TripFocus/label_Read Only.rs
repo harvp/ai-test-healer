@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Read Only</name>
+   <tag></tag>
+   <elementGuidId>06708b97-e7e3-411a-9eaf-1aa07ca2a7e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mb-4.col-lg-6 > div.custom-control.custom-checkbox > label.custom-control-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__BVID__145']/div/div/div/div[3]/div[10]/div/label</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[(text() = ' Read Only ' or . = ' Read Only ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>dd705cc9-4a14-4a29-929b-30a7f4d8f34b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>chk-is-read-only</value>
+      <webElementGuid>c9bcb8f8-a5cb-464f-bc75-bac37e4797c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-control-label</value>
+      <webElementGuid>4cabd14b-b4b1-4273-a3b3-701a64a72cfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Read Only </value>
+      <webElementGuid>4c9d36c3-3d67-4fe0-ad60-d4bc38992767</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__145&quot;)/div[@class=&quot;mb-3&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;mb-4 col-lg-6&quot;]/div[@class=&quot;custom-control custom-checkbox&quot;]/label[@class=&quot;custom-control-label&quot;]</value>
+      <webElementGuid>c753d03d-6c68-4bbb-8e39-5d8190eed347</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__145']/div/div/div/div[3]/div[10]/div/label</value>
+      <webElementGuid>57e903b5-257a-4af8-a598-d8480270cb01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List is empty.'])[8]/following::label[1]</value>
+      <webElementGuid>6e980d4b-f748-469c-af9c-bd8c8c09e594</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Subsidiaries found. Consider changing the search query.'])[1]/following::label[1]</value>
+      <webElementGuid>b398893a-181a-45b1-aa9b-acceeefa8c2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview Data Restrictions'])[1]/preceding::label[1]</value>
+      <webElementGuid>a7c3695d-a92e-4ee9-8d57-000ad85b6c25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset Data Restrictions'])[1]/preceding::label[1]</value>
+      <webElementGuid>8e402886-92a2-486d-adb4-4ba4189e5d4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/label</value>
+      <webElementGuid>af0026cd-ee0c-4297-8aea-866b10c3e0ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = ' Read Only ' or . = ' Read Only ')]</value>
+      <webElementGuid>44c9714f-b56b-43d8-b06b-40e7621ca1ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

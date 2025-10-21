@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Edit_Product</name>
+   <tag></tag>
+   <elementGuidId>6082c4ec-af81-4e8e-b96b-0548fc5ac9af</elementGuidId>
+   <imagePath>C:\git\new-qa-repo\TripFocus\Screenshots\Targets\Page_TripFocus\button_Edit Product.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = ' Edit Product ' or . = ' Edit Product ')]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>C:\git\new-qa-repo\TripFocus\Screenshots\Targets\Page_TripFocus\button_Edit Product.png</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-success</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[12]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>89da484a-d707-474d-b099-2bd1c4aace87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>109b2540-0e0b-4aaa-9fd0-65a16b6e8db2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-success</value>
+      <webElementGuid>fd721c6d-2576-4284-ac54-a73de183d639</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Edit Product </value>
+      <webElementGuid>60c75b68-6a04-48b8-b5f1-fd562e97fe85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slide-out-panel-bd0c9c6e-2e03-61c8-342f-89c96ea1752f&quot;)/section[@class=&quot;container grey-background&quot;]/div[@class=&quot;card card-box-shadow&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row justify-content-end mr-2 mt-3&quot;]/button[@class=&quot;btn btn-success&quot;]</value>
+      <webElementGuid>4293a20c-5d6f-46ed-ab4a-8442cf831d0c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[12]</value>
+      <webElementGuid>04b3dac9-f037-4a4f-8452-37f76e7ce728</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slide-out-panel-bd0c9c6e-2e03-61c8-342f-89c96ea1752f']/section/div[3]/div/div[3]/button[2]</value>
+      <webElementGuid>02420670-a0ff-47a9-b708-d2b6a1649237</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::button[1]</value>
+      <webElementGuid>78602d2f-2155-4904-ad71-a80146704e88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quantity'])[1]/following::button[3]</value>
+      <webElementGuid>b8ea2657-7715-4ac7-8d96-9bd1260f2aa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Powered by'])[1]/preceding::button[1]</value>
+      <webElementGuid>eb062407-5dba-4b88-9bab-88bacacfacfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Edit Product']/parent::*</value>
+      <webElementGuid>8ba8eb49-3e5a-49a8-b8a2-e8bdf5233654</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button[2]</value>
+      <webElementGuid>5deed5ed-9a19-4e68-8713-0be542c1975a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Edit Product ' or . = ' Edit Product ')]</value>
+      <webElementGuid>7b3893c7-e6e1-4b1f-bb1e-70e79fa197d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

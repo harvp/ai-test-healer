@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_LoadTenderPermissions - ViewLoadTenderP_cf6895_1</name>
+   <tag></tag>
+   <elementGuidId>c7e6d8bc-d090-4e0b-b5db-c87652b356a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.vue-treeselect__multi-value</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__BVID__192']/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a7b3779e-1249-46f4-bbf1-41fa58efc86e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vue-treeselect__multi-value</value>
+      <webElementGuid>a41865fb-e5d4-4f48-96f8-5f1b62c7f97d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LoadTenderPermissions - ViewLoadTenderPermissions - CreateFromTemplateLoadTenderPermissions - DeleteLoadTenderPermissions - UpdateFromTemplateLoadTenderPermissions - UpdateAdHocLoadTenderPermissions - CreateAdHocSelect...</value>
+      <webElementGuid>074c9617-a1ca-477e-868f-1ace8819995f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__192&quot;)/div[@class=&quot;bv-no-focus-ring&quot;]/div[@class=&quot;vue-treeselect vue-treeselect--multi vue-treeselect--searchable vue-treeselect--focused vue-treeselect--has-value vue-treeselect--open vue-treeselect--open-below&quot;]/div[@class=&quot;vue-treeselect__control&quot;]/div[@class=&quot;vue-treeselect__value-container&quot;]/div[@class=&quot;vue-treeselect__multi-value&quot;]</value>
+      <webElementGuid>87db2385-df4e-4bd1-ba9b-42debbb1250f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__192']/div/div/div/div/div</value>
+      <webElementGuid>4b9b2dae-b9fe-4f32-9518-3f0595b899c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permissions'])[2]/following::div[5]</value>
+      <webElementGuid>e9f5c8f2-4c00-49a4-8f01-a20679d42400</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Permissions'])[1]/following::div[11]</value>
+      <webElementGuid>7e52269e-7a7e-45fd-aabe-c1b84b0ced4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div/div/div/div/div/div</value>
+      <webElementGuid>38110d86-f66b-42ef-a8d7-2ed02a6a27be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'LoadTenderPermissions - ViewLoadTenderPermissions - CreateFromTemplateLoadTenderPermissions - DeleteLoadTenderPermissions - UpdateFromTemplateLoadTenderPermissions - UpdateAdHocLoadTenderPermissions - CreateAdHocSelect...' or . = 'LoadTenderPermissions - ViewLoadTenderPermissions - CreateFromTemplateLoadTenderPermissions - DeleteLoadTenderPermissions - UpdateFromTemplateLoadTenderPermissions - UpdateAdHocLoadTenderPermissions - CreateAdHocSelect...')]</value>
+      <webElementGuid>93ff9611-f9ef-4206-a749-4f07345ce34e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

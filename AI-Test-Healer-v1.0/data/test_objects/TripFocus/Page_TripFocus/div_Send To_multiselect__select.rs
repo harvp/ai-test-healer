@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Send To_multiselect__select</name>
+   <tag></tag>
+   <elementGuidId>7f8e4004-41de-4447-a2db-b30c4d470b6d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.multiselect.multiselect--active.multiselect--above > div.multiselect__select</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[@id='__BVID__119']/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ea8d7c88-7977-4f6f-b460-1cb5ad3ce270</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>multiselect__select</value>
+      <webElementGuid>cb0c0eb9-41b4-450c-b990-d2be96b3b9cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__119&quot;)/div[@class=&quot;bv-no-focus-ring&quot;]/div[@class=&quot;multiselect multiselect--active multiselect--above&quot;]/div[@class=&quot;multiselect__select&quot;]</value>
+      <webElementGuid>352a6d1a-9e92-47a2-b8c4-33aff18dae80</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='__BVID__119']/div/div/div</value>
+      <webElementGuid>3faa4c3a-cfb4-40b5-b587-0eb52ebae270</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/div/div/div</value>
+      <webElementGuid>6485137a-ae77-4506-9ea6-994359b68992</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

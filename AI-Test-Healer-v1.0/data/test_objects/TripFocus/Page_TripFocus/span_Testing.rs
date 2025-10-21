@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Testing</name>
+   <tag></tag>
+   <elementGuidId>a942b50d-7bf0-4bfe-abd3-186b7166c97e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/main/div/div[2]/div[3]/div/main/ul/li[2]/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ba24720a-91be-4695-8518-3daf5e5b981c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>from mr-2</value>
+      <webElementGuid>634e3211-0d75-4a12-925c-afd44ebce7c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Testing</value>
+      <webElementGuid>cd3beb1d-d7f2-49aa-bd99-cd3a9a27bea2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;container vld-parent&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;email-app&quot;]/main[@class=&quot;inbox&quot;]/ul[@class=&quot;messages&quot;]/li[@class=&quot;message&quot;]/div[@class=&quot;header&quot;]/span[@class=&quot;from mr-2&quot;]</value>
+      <webElementGuid>d6181b3f-c431-4e04-9b3e-c3c0787e18da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/main/div/div[2]/div[3]/div/main/ul/li[2]/div[2]/span</value>
+      <webElementGuid>de0fbc7c-8820-4c71-98a3-d489fd23498b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General Notification'])[1]/following::span[4]</value>
+      <webElementGuid>4f095b93-5ecc-4b6d-bd27-04c47387edfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tripfocus Message'])[1]/following::span[5]</value>
+      <webElementGuid>3feb92ef-1b3b-4644-a3f1-c99dbe247208</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General Notification'])[2]/preceding::span[1]</value>
+      <webElementGuid>d775500b-5f18-4847-ac2e-609d00ffb7f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tripfocus Message'])[2]/preceding::span[5]</value>
+      <webElementGuid>f0449768-293d-4956-9d01-50f5124f83ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Testing']/parent::*</value>
+      <webElementGuid>4cecd8ea-6da6-4128-a8ee-6c3c517ae4ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div[2]/span</value>
+      <webElementGuid>eedaa369-fdb2-43d4-8746-e9ba47a15a94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Testing' or . = ' Testing')]</value>
+      <webElementGuid>11e62cd9-e181-433c-b36b-a35de3e8a239</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

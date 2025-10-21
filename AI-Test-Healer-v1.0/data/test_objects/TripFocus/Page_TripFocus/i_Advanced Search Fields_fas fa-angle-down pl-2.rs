@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Advanced Search Fields_fas fa-angle-down pl-2</name>
+   <tag></tag>
+   <elementGuidId>443c9a34-69ec-41cd-a759-c4755cb09df0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-angle-down.pl-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='slide-out-panel-056ef50d-f696-8764-6769-e156e8e0e890']/div/div[2]/div/h4/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>cf15a5df-a416-40c8-8cd8-db08ddd7f731</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-angle-down pl-2</value>
+      <webElementGuid>4ddeb2ff-d454-41b2-8257-f29d0e61026b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slide-out-panel-056ef50d-f696-8764-6769-e156e8e0e890&quot;)/div[@class=&quot;container order-search&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/h4[@class=&quot;card-title&quot;]/span[@class=&quot;pointer&quot;]/i[@class=&quot;fas fa-angle-down pl-2&quot;]</value>
+      <webElementGuid>0a2a5c40-b076-40d8-9477-38f8370954e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slide-out-panel-056ef50d-f696-8764-6769-e156e8e0e890']/div/div[2]/div/h4/span/i</value>
+      <webElementGuid>1a58c85e-d256-4dcf-b306-ebbd1307f610</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/h4/span/i</value>
+      <webElementGuid>355cd269-3a29-4669-8ecd-f0775a685b44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

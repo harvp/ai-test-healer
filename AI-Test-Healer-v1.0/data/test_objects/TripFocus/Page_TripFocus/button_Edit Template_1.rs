@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Edit Template_1</name>
+   <tag></tag>
+   <elementGuidId>49806fe3-a3ee-4387-8100-69c0b572a6a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btnEditTemplate</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btnEditTemplate']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4992eb01-b78e-4c80-80cb-f57c1f9b5908</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnEditTemplate</value>
+      <webElementGuid>9f9f1492-085c-4183-a2b0-1baea4ae3ee8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8fae5eb4-4d8d-4b79-9834-094e34abb90d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-outline-primary</value>
+      <webElementGuid>60f1bb80-bc06-462d-ad5e-22e43e64127d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit Template</value>
+      <webElementGuid>94b5036d-b7f5-4f34-852a-d5eb66a525b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;orderTemplate0&quot;)/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;text-right col&quot;]/button[@id=&quot;btnEditTemplate&quot;]</value>
+      <webElementGuid>99014ce9-2a05-44f3-b79f-233a4688f00b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='btnEditTemplate']</value>
+      <webElementGuid>f6875e3a-d154-4ca9-a7a1-8357ff17af8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='orderTemplate0']/div[4]/div[2]/button</value>
+      <webElementGuid>781d4f4f-12d1-4574-a021-0d5a04c25a5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Template'])[1]/following::button[1]</value>
+      <webElementGuid>4e9da9af-91e4-4808-80c0-da99a8fc57ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gas, 87 Octane, 10% Ethanol'])[1]/following::button[2]</value>
+      <webElementGuid>e58cc390-5640-48bd-826a-cbd65333c987</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AA_Test'])[2]/preceding::button[1]</value>
+      <webElementGuid>e8bbf3f1-301f-406c-89ac-5bf203f51ae5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CARY OIL CO'])[2]/preceding::button[1]</value>
+      <webElementGuid>957f27ba-9087-48cc-8455-ed8d9c04e86c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Edit Template']/parent::*</value>
+      <webElementGuid>5e287a18-44ac-4cdd-a08c-091b2e6bf35c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/button</value>
+      <webElementGuid>60097354-5103-43c4-bdda-6e4ff35a1892</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'btnEditTemplate' and @type = 'button' and (text() = 'Edit Template' or . = 'Edit Template')]</value>
+      <webElementGuid>677d203a-cd39-466a-961e-055c28fed10b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

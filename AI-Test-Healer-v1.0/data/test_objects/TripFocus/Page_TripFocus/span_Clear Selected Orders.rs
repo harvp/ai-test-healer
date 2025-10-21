@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Clear Selected Orders</name>
+   <tag></tag>
+   <elementGuidId>da7f2b2b-5561-49a9-8ecc-f16cd8dbc663</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#clearAllSelectedSpan</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='clearAllSelectedSpan']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>743df4ad-eafa-4c85-afbb-559466cc00d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>clearAllSelectedSpan</value>
+      <webElementGuid>55689904-ee3c-48ec-a034-c962dc5b41e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-none d-sm-inline</value>
+      <webElementGuid>aeae3c07-21b3-4f8b-a3e7-86cec1f539c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Clear Selected Orders</value>
+      <webElementGuid>18d414da-0bf7-41bf-b44e-3902f86eb1df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;clearAllSelectedSpan&quot;)</value>
+      <webElementGuid>f7ff4038-b58a-4cf2-8b3b-0f387fa7c9d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='clearAllSelectedSpan']</value>
+      <webElementGuid>4ccb259c-aedf-4600-bab8-672f91420547</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='btnClearAllSelected']/span</value>
+      <webElementGuid>f5eb375a-3bb8-4032-bcac-cea671c5d72e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export Selected Orders'])[1]/following::span[1]</value>
+      <webElementGuid>cf7140b3-172b-43a8-8825-debcce7b34da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export'])[1]/following::span[2]</value>
+      <webElementGuid>f4dbe9d0-6d65-45f2-a33a-d02aad6bae54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Per page:'])[1]/preceding::span[1]</value>
+      <webElementGuid>052548e1-e074-45ad-b6cc-6ace27ac24a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order #'])[1]/preceding::span[1]</value>
+      <webElementGuid>08ecb488-51b5-49f6-ad35-32b6b8e9bd8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Clear Selected Orders']/parent::*</value>
+      <webElementGuid>212956d6-4ae0-4f15-aae2-a26ad3c0e108</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]/span</value>
+      <webElementGuid>4dd68ad2-ecb8-4bcf-9c52-68ecb3b27c4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'clearAllSelectedSpan' and (text() = 'Clear Selected Orders' or . = 'Clear Selected Orders')]</value>
+      <webElementGuid>1265e635-08e0-4aa8-9f48-b4d897ccf28b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

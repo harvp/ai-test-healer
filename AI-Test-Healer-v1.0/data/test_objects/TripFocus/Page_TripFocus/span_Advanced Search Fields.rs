@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Advanced Search Fields</name>
+   <tag></tag>
+   <elementGuidId>246822fb-53d1-441e-9a2c-5d43bbb6221f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='slide-out-panel-15a3a6e1-5ae1-be76-538b-8870741c9fb6']/div/div[2]/div/h4/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>88846f7c-c688-42df-ab18-dc0835936da2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>a247f4f2-5312-4ac2-92b0-2628af5c9904</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>collapse-advanced</value>
+      <webElementGuid>57af3f9a-6f73-4997-97a1-151e1a1878e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pointer</value>
+      <webElementGuid>b1cab7c3-67ad-4619-861e-181083c910a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Advanced Search Fields </value>
+      <webElementGuid>fd82ffe8-807b-446d-8071-d67874118d34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slide-out-panel-15a3a6e1-5ae1-be76-538b-8870741c9fb6&quot;)/div[@class=&quot;container order-search&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/h4[@class=&quot;card-title&quot;]/span[@class=&quot;pointer&quot;]</value>
+      <webElementGuid>b649f810-a1b7-4dc2-a988-a430bb9c2891</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slide-out-panel-15a3a6e1-5ae1-be76-538b-8870741c9fb6']/div/div[2]/div/h4/span</value>
+      <webElementGuid>8311e88b-1f53-4b48-aab4-da51c4cb0b02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivered To'])[1]/following::span[1]</value>
+      <webElementGuid>2e599119-55b4-4d43-a68c-b09809343120</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivered From'])[1]/following::span[1]</value>
+      <webElementGuid>10acbded-72de-4c46-bfde-c5164b7c6782</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BillTo'])[1]/preceding::span[1]</value>
+      <webElementGuid>6bff9b7e-0a84-4949-99f8-e90217038468</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type to search available BillTos'])[1]/preceding::span[1]</value>
+      <webElementGuid>cb015349-ecbe-4408-a41c-22c30952674e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Advanced Search Fields']/parent::*</value>
+      <webElementGuid>efa513e2-f128-4f45-8e4a-027b0e2e27ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/h4/span</value>
+      <webElementGuid>3db04d23-e2fb-4048-aa2b-784a60e78881</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Advanced Search Fields ' or . = ' Advanced Search Fields ')]</value>
+      <webElementGuid>738edee9-1263-4c26-b45f-3114ab03b628</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

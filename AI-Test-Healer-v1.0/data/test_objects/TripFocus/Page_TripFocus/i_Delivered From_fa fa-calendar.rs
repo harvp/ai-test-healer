@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Delivered From_fa fa-calendar</name>
+   <tag></tag>
+   <elementGuidId>6e9a8c9c-b258-410a-bdae-ee0099a45fbf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-calendar</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[@id='__BVID__212']/div/div/div/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>2b3475a6-22e4-4581-9592-2271e0bcb8d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-calendar</value>
+      <webElementGuid>10a1520c-a3b1-461f-b4f7-86233ed98f04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__212&quot;)/div[@class=&quot;bv-no-focus-ring&quot;]/div[@class=&quot;input-group has-feedback has-clear&quot;]/div[@class=&quot;input-group-append&quot;]/div[@class=&quot;input-group-text&quot;]/i[@class=&quot;fa fa-calendar&quot;]</value>
+      <webElementGuid>ffefe577-d2c2-470d-b332-808e5d870867</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='__BVID__212']/div/div/div/div/i</value>
+      <webElementGuid>610cb0af-2007-4aa4-a754-f9cc2d0f5d7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/div/div/div/div/i</value>
+      <webElementGuid>6610c38c-b772-46fc-b25b-08253a78c394</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

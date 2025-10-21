@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_1945 Almon St. Heflin, AL</name>
+   <tag></tag>
+   <elementGuidId>6552537f-9dcf-4e03-8c3c-5da856167659</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.multiselect__option.multiselect__option--highlight > div.option__desc > span.city-state-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__BVID__459']/div/div/div[4]/ul/li[2]/span/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e31e4d18-422e-437b-b984-4a9ef9a333d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>city-state-text</value>
+      <webElementGuid>9db05a21-7a82-4c9a-9397-049ca5812043</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1945 Almon St. Heflin, AL</value>
+      <webElementGuid>4f4a6800-cf93-4a87-b7e7-976e5294f1a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__459&quot;)/div[@class=&quot;bv-no-focus-ring&quot;]/div[@class=&quot;multiselect multiselect--active&quot;]/div[@class=&quot;multiselect__content-wrapper&quot;]/ul[@class=&quot;multiselect__content&quot;]/li[@class=&quot;multiselect__element&quot;]/span[@class=&quot;multiselect__option multiselect__option--highlight&quot;]/div[@class=&quot;option__desc&quot;]/span[@class=&quot;city-state-text&quot;]</value>
+      <webElementGuid>55883da5-5c55-46de-b4e7-578de09f0183</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__459']/div/div/div[4]/ul/li[2]/span/div/span</value>
+      <webElementGuid>c424a13c-849d-4041-bcba-54f7607f9c3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery Site'])[1]/following::span[4]</value>
+      <webElementGuid>9558c0e1-40bd-4c26-8c5f-93f96bdea293</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1945 Almon St. Heflin, AL']/parent::*</value>
+      <webElementGuid>a4e27061-21c1-4fbd-a266-338f1ddb1783</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/span/div/span</value>
+      <webElementGuid>03dda315-674d-4e92-b829-725450a15733</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '1945 Almon St. Heflin, AL' or . = '1945 Almon St. Heflin, AL')]</value>
+      <webElementGuid>c1c22370-ed09-41dd-9a15-156207335a6c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

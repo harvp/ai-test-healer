@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_pane-close</name>
+   <tag></tag>
+   <elementGuidId>ff2d2970-3535-4d92-bd3b-a9b7fe7b562c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-lg.fa-window-close</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/div/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>69acf09d-6b09-409d-be14-c599f76d0512</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>eab00a82-77a6-4564-8628-1fde3549f99e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-lg fa-window-close</value>
+      <webElementGuid>c3e6d00d-5f83-4c38-8cc4-b188b193f011</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnCloseSlideout&quot;)/i[@class=&quot;fa fa-lg fa-window-close&quot;]</value>
+      <webElementGuid>16ee552d-877d-4aae-8b05-1b824eb177df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='btnCloseSlideout']/i</value>
+      <webElementGuid>29c144e2-8327-498b-9f51-4b58bb833ca2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/button/i</value>
+      <webElementGuid>992b87d1-4f8f-457b-a177-40578cf08ce9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

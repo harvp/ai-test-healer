@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Send To</name>
+   <tag></tag>
+   <elementGuidId>dff8006b-698b-4f06-99cd-f6d955c146b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[@id='__BVID__222']/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.bv-no-focus-ring > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>6b293efb-e509-418f-b730-c55c95f95158</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>txtSendTo</value>
+      <webElementGuid>88590eb1-9630-4b21-80e4-eff9320394c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Send To </value>
+      <webElementGuid>b22ca007-22a4-40d6-a8eb-b43e6d045fd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__222&quot;)/div[@class=&quot;bv-no-focus-ring&quot;]/label[1]</value>
+      <webElementGuid>736f8a07-098b-4f6d-953a-8005881bc119</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='__BVID__222']/div/label</value>
+      <webElementGuid>33219081-6577-46ac-978a-9fa3856b0094</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery site is required.'])[1]/following::label[1]</value>
+      <webElementGuid>3f3415e3-830a-4b4a-afb6-4bf66ac7a7be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List is empty.'])[1]/following::label[1]</value>
+      <webElementGuid>95d822fe-ecad-4df4-b639-ad3d9d0ac17e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notification Events'])[1]/preceding::label[1]</value>
+      <webElementGuid>2253c7fb-6a02-4a96-bdcd-807d95343383</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select...'])[1]/preceding::label[2]</value>
+      <webElementGuid>e689c005-4fd4-43dd-a56c-500f45deef1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/div/label</value>
+      <webElementGuid>5e00ce7d-a568-4770-ac84-a4eaf6384a41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = ' Send To ' or . = ' Send To ')]</value>
+      <webElementGuid>6b81c17d-09fd-47fc-addc-11c5a9f0c496</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

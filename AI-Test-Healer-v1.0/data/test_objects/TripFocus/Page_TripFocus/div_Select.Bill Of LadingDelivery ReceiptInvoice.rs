@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select.Bill Of LadingDelivery ReceiptInvoice</name>
+   <tag></tag>
+   <elementGuidId>41ba0fc7-6cb9-44d6-80c5-2b77322d722b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.vue-treeselect.vue-treeselect--multi.vue-treeselect--searchable.vue-treeselect--focused.vue-treeselect--open.vue-treeselect--open-below</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__BVID__117']/div/div/div/div[3]/div[10]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5f933cc9-a2c5-4b2a-9f98-f481815b0ce7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vue-treeselect vue-treeselect--multi vue-treeselect--searchable vue-treeselect--focused vue-treeselect--open vue-treeselect--open-below</value>
+      <webElementGuid>ca79903f-1baa-4d03-9084-9b8931a3394f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select...Bill Of LadingDelivery ReceiptInvoice</value>
+      <webElementGuid>42a29181-13c4-42c6-a130-ca99fc2c07c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__117&quot;)/div[@class=&quot;mb-3&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;col-lg-6&quot;]/div[@class=&quot;vue-treeselect vue-treeselect--multi vue-treeselect--searchable vue-treeselect--focused vue-treeselect--open vue-treeselect--open-below&quot;]</value>
+      <webElementGuid>b835a7b6-4857-4e61-beb0-e66d070ecbc9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__117']/div/div/div/div[3]/div[10]/div</value>
+      <webElementGuid>061c003e-2f8c-4135-a6d6-0c458ee21f2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Image Permissions'])[1]/following::div[1]</value>
+      <webElementGuid>9888f7b1-9e4d-4a1a-adcb-047f7afa82be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List is empty.'])[8]/following::div[2]</value>
+      <webElementGuid>09819f69-7ef6-479a-98c0-4ed0fcbcb424</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div</value>
+      <webElementGuid>50e46da1-8e3c-4e97-9cc8-f68b9e8b7e88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select...Bill Of LadingDelivery ReceiptInvoice' or . = 'Select...Bill Of LadingDelivery ReceiptInvoice')]</value>
+      <webElementGuid>413d6983-7b2c-42b8-a489-6fd6bed51a4e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

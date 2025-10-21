@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BillTo_txt</name>
+   <tag></tag>
+   <elementGuidId>3e9cac4f-5fbc-4123-b515-0b8fcc5f6a16</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'multiselect_placeholder']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>multiselect_placeholder</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;collapse-advanced&quot;]/div[1]/div[1]/div/div/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>multiselect_placeholder</value>
+      <webElementGuid>87afbdbe-31c0-4a7e-ba16-16e71be80e8a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

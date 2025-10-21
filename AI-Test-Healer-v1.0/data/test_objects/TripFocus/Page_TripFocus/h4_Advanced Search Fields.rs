@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Advanced Search Fields</name>
+   <tag></tag>
+   <elementGuidId>ddbf3260-d0f1-42a4-9722-eed95e8a1de2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='slide-out-panel-c54f3ec7-1cbd-07f0-403a-9e9cb8d8dbb8']/div/div[2]/div/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>195ebf85-0316-4db9-8416-0b58f15fcabd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-title</value>
+      <webElementGuid>c0fce527-fcfe-491f-8805-0718691e5854</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Advanced Search Fields </value>
+      <webElementGuid>d0e4da53-cf1d-4616-b2b1-674ad68e4147</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slide-out-panel-c54f3ec7-1cbd-07f0-403a-9e9cb8d8dbb8&quot;)/div[@class=&quot;container order-search&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/h4[@class=&quot;card-title&quot;]</value>
+      <webElementGuid>7a230f6c-43da-4a6e-bff3-84cd850538fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slide-out-panel-c54f3ec7-1cbd-07f0-403a-9e9cb8d8dbb8']/div/div[2]/div/h4</value>
+      <webElementGuid>5c8f07ff-7d2a-4923-bb3d-3160d3bc75dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivered To'])[1]/following::h4[1]</value>
+      <webElementGuid>47868eb9-8578-4006-b129-95159a0c4b3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivered From'])[1]/following::h4[1]</value>
+      <webElementGuid>b961da6d-fdf7-48e4-93f2-c3d9fbcda560</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BillTo'])[1]/preceding::h4[1]</value>
+      <webElementGuid>747837bf-4a56-4622-9841-34c3e7acd5b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/h4</value>
+      <webElementGuid>230e25d1-81cc-437a-af85-1698035d685d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = ' Advanced Search Fields ' or . = ' Advanced Search Fields ')]</value>
+      <webElementGuid>34303dc7-7de2-4d33-aa08-8a43f9cd2f84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h5_There are no records to show</name>
+   <tag></tag>
+   <elementGuidId>8c22ac38-849e-4b85-9f10-f6be8e062beb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h5.text-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='__BVID__210']/tbody/tr/td/div/h5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>398b94ce-cf82-4ce6-8dd6-e46f3db60e9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center</value>
+      <webElementGuid>3ea8afc0-8fce-44f5-bee8-d5c0f43c2bee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>There are no records to show</value>
+      <webElementGuid>b085616f-da7c-4bc7-ac0f-4f47b79474ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__210&quot;)/tbody[1]/tr[@class=&quot;b-table-empty-row&quot;]/td[1]/div[1]/h5[@class=&quot;text-center&quot;]</value>
+      <webElementGuid>12ceeb68-039d-4a89-806d-cd1a9d293221</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='__BVID__210']/tbody/tr/td/div/h5</value>
+      <webElementGuid>81802ba4-98b4-4f95-b0cc-e98347453358</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/following::h5[1]</value>
+      <webElementGuid>555a682e-861b-4da8-9624-cbc8a0de944c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Images'])[1]/following::h5[1]</value>
+      <webElementGuid>203b17a9-1f88-493a-96b0-93bd52768df5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Data Restrictions'])[1]/preceding::h5[1]</value>
+      <webElementGuid>5e80958c-f2aa-45ec-9be1-27cd5c09ebc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Divisions'])[1]/preceding::h5[1]</value>
+      <webElementGuid>67c63f44-28e9-47dd-863f-8e9c2ac1242a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='There are no records to show']/parent::*</value>
+      <webElementGuid>c86414af-5121-4ee0-997f-dd1e544762f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h5</value>
+      <webElementGuid>218ae56c-d004-4675-bc9c-5d1ffe1de6bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = 'There are no records to show' or . = 'There are no records to show')]</value>
+      <webElementGuid>a5f086ee-a3b8-4532-8a4d-f7c64bc93c4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

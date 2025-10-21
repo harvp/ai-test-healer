@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_CustomerTemplatePermissions - UpdateCus_30e507</name>
+   <tag></tag>
+   <elementGuidId>2c350483-3a67-46fa-bd30-44b123c277ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.vue-treeselect__multi-value</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__BVID__287']/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'CustomerTemplatePermissions - UpdateCustomerTemplatePermissions - DeleteCustomerTemplatePermissions - ViewCustomerTemplatePermissions - CreateImagePermissions - ViewLoadTenderPermissions - UpdateFromTemplateLoadTenderPermissions - CreateFromTemplateLoadTenderPermissions - DeleteLoadTenderPermissions - CreateAdHocLoadTenderPermissions - UpdateAdHocLoadTenderPermissions - ViewOrderMapsPermissions - ViewUserManagementPermissions - UpdateUserManagementPermissions - CreateUserManagementPermissions - ViewUserManagementPermissions - DeleteSelect...' or . = 'CustomerTemplatePermissions - UpdateCustomerTemplatePermissions - DeleteCustomerTemplatePermissions - ViewCustomerTemplatePermissions - CreateImagePermissions - ViewLoadTenderPermissions - UpdateFromTemplateLoadTenderPermissions - CreateFromTemplateLoadTenderPermissions - DeleteLoadTenderPermissions - CreateAdHocLoadTenderPermissions - UpdateAdHocLoadTenderPermissions - ViewOrderMapsPermissions - ViewUserManagementPermissions - UpdateUserManagementPermissions - CreateUserManagementPermissions - ViewUserManagementPermissions - DeleteSelect...')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1b2fd911-e1af-4121-8da1-c76063132358</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vue-treeselect__multi-value</value>
+      <webElementGuid>72e71123-c090-40d1-9500-92b64a3bb627</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CustomerTemplatePermissions - UpdateCustomerTemplatePermissions - DeleteCustomerTemplatePermissions - ViewCustomerTemplatePermissions - CreateImagePermissions - ViewLoadTenderPermissions - UpdateFromTemplateLoadTenderPermissions - CreateFromTemplateLoadTenderPermissions - DeleteLoadTenderPermissions - CreateAdHocLoadTenderPermissions - UpdateAdHocLoadTenderPermissions - ViewOrderMapsPermissions - ViewUserManagementPermissions - UpdateUserManagementPermissions - CreateUserManagementPermissions - ViewUserManagementPermissions - DeleteSelect...</value>
+      <webElementGuid>e0af8df7-694e-4521-a280-e1962adae56f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__287&quot;)/div[@class=&quot;bv-no-focus-ring&quot;]/div[@class=&quot;vue-treeselect vue-treeselect--multi vue-treeselect--searchable vue-treeselect--disabled vue-treeselect--has-value vue-treeselect--open-below&quot;]/div[@class=&quot;vue-treeselect__control&quot;]/div[@class=&quot;vue-treeselect__value-container&quot;]/div[@class=&quot;vue-treeselect__multi-value&quot;]</value>
+      <webElementGuid>10b0cddf-8fd5-4f63-8dab-fd5d9aa06487</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__287']/div/div/div/div/div</value>
+      <webElementGuid>47194636-87b4-44d2-8138-1b5df720ef7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permissions'])[2]/following::div[5]</value>
+      <webElementGuid>51e2f4d0-b3c0-4f57-a246-362cd2a12c90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Permissions'])[1]/following::div[11]</value>
+      <webElementGuid>aeeee33d-ab7b-4808-9575-f6919f266e2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div/div/div/div/div/div</value>
+      <webElementGuid>6890bfa2-31d8-43c1-99aa-6df7dde0358e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'CustomerTemplatePermissions - UpdateCustomerTemplatePermissions - DeleteCustomerTemplatePermissions - ViewCustomerTemplatePermissions - CreateImagePermissions - ViewLoadTenderPermissions - UpdateFromTemplateLoadTenderPermissions - CreateFromTemplateLoadTenderPermissions - DeleteLoadTenderPermissions - CreateAdHocLoadTenderPermissions - UpdateAdHocLoadTenderPermissions - ViewOrderMapsPermissions - ViewUserManagementPermissions - UpdateUserManagementPermissions - CreateUserManagementPermissions - ViewUserManagementPermissions - DeleteSelect...' or . = 'CustomerTemplatePermissions - UpdateCustomerTemplatePermissions - DeleteCustomerTemplatePermissions - ViewCustomerTemplatePermissions - CreateImagePermissions - ViewLoadTenderPermissions - UpdateFromTemplateLoadTenderPermissions - CreateFromTemplateLoadTenderPermissions - DeleteLoadTenderPermissions - CreateAdHocLoadTenderPermissions - UpdateAdHocLoadTenderPermissions - ViewOrderMapsPermissions - ViewUserManagementPermissions - UpdateUserManagementPermissions - CreateUserManagementPermissions - ViewUserManagementPermissions - DeleteSelect...')]</value>
+      <webElementGuid>70b8fc96-3127-4d6f-b0b4-9f65f186dedb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

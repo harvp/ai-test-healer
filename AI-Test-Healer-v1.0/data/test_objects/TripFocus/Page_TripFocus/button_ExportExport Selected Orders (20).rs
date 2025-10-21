@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_ExportExport Selected Orders (20)</name>
+   <tag></tag>
+   <elementGuidId>ab63fda4-4ee3-42a0-b554-eb2d4c350e38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b88a2c27-ae05-4148-b4af-8deceec7728a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f8974fe4-a35f-4011-92ab-941162be2e95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn mr-1 mr-3-md btn-light</value>
+      <webElementGuid>a9cd16a2-f020-4d66-872e-5c67f9a44a35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ExportExport Selected Orders (20) </value>
+      <webElementGuid>40c5dbe2-55c1-440a-883c-1dbdd80a93ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/div[2]/section[@class=&quot;container-fluid vld-parent&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;card webview-card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row mb-sm-4&quot;]/div[@class=&quot;col&quot;]/button[@class=&quot;btn mr-1 mr-3-md btn-light&quot;]</value>
+      <webElementGuid>8a2c4e35-1164-436c-a630-6416ae7f76d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[8]</value>
+      <webElementGuid>d7959d65-8c0b-4fbb-95c2-4b0bfcb791c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/main/div/div[2]/section/div[5]/div/div/div/div/button[3]</value>
+      <webElementGuid>8b85b608-cd5f-4db9-9e6b-c65689273c7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Images for Selected Orders'])[1]/following::button[1]</value>
+      <webElementGuid>aeb031c4-31fb-4beb-ab67-520196a1c06d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Images'])[1]/following::button[1]</value>
+      <webElementGuid>eac3dc7c-3b8e-460c-955f-a0f50b7dd34e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]</value>
+      <webElementGuid>045fa855-ccff-4cbc-aaae-ed806d6ea5ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'ExportExport Selected Orders (20) ' or . = 'ExportExport Selected Orders (20) ')]</value>
+      <webElementGuid>79a2c1df-49f4-4999-9da8-ad8db6b3f1c7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

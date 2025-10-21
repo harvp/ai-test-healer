@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_540 LAKE CONCORD ROAD NORTHEAST Concord, NC</name>
+   <tag></tag>
+   <elementGuidId>3e56c717-cc8f-41df-a83d-6a57a1de1824</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.multiselect__option.multiselect__option--highlight > div.option__desc > span.city-state-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__BVID__129']/div/div/div[3]/ul/li[2]/span/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>94c1a1cc-7590-4888-b376-356d9e9dfac7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>city-state-text</value>
+      <webElementGuid>5ec6000a-9cff-42b5-ab12-102b15ac85ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>540 LAKE CONCORD ROAD NORTHEAST Concord, NC</value>
+      <webElementGuid>269c3c25-5b4e-44b1-9f9b-985ffec83c05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__129&quot;)/div[@class=&quot;bv-no-focus-ring&quot;]/div[@class=&quot;multiselect multiselect--active&quot;]/div[@class=&quot;multiselect__content-wrapper&quot;]/ul[@class=&quot;multiselect__content&quot;]/li[@class=&quot;multiselect__element&quot;]/span[@class=&quot;multiselect__option multiselect__option--highlight&quot;]/div[@class=&quot;option__desc&quot;]/span[@class=&quot;city-state-text&quot;]</value>
+      <webElementGuid>5fa47e95-abc1-4e7d-97c5-f5e4c3b92b88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>42b6c28f-3271-4d2e-8d32-d7c4ef6ea3db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>city-state-text</value>
+      <webElementGuid>69169654-ae6e-44ee-b4a3-83dc2a798efd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>540 LAKE CONCORD ROAD NORTHEAST Concord, NC</value>
+      <webElementGuid>03438be8-8e74-4291-9e52-d4e1b405bd1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__153&quot;)/div[@class=&quot;bv-no-focus-ring&quot;]/div[@class=&quot;multiselect multiselect--active&quot;]/div[@class=&quot;multiselect__content-wrapper&quot;]/ul[@class=&quot;multiselect__content&quot;]/li[@class=&quot;multiselect__element&quot;]/span[@class=&quot;multiselect__option multiselect__option--highlight&quot;]/div[@class=&quot;option__desc&quot;]/span[@class=&quot;city-state-text&quot;]</value>
+      <webElementGuid>8955d09c-24e8-45c6-976b-4877e33f0a36</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__129']/div/div/div[3]/ul/li[2]/span/div/span</value>
+      <webElementGuid>57e4e5ea-02dd-4363-87ec-dcd11ac5ce20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery Site'])[1]/following::span[4]</value>
+      <webElementGuid>54f9ad97-e399-4f20-b42c-3a5a18f64083</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='540 LAKE CONCORD ROAD NORTHEAST Concord, NC']/parent::*</value>
+      <webElementGuid>3f1710bc-abe2-4c7e-a24b-dc7a2f0743b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/span/div/span</value>
+      <webElementGuid>6a6cd694-0eba-4cc8-96c9-50c6b4a768af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '540 LAKE CONCORD ROAD NORTHEAST Concord, NC' or . = '540 LAKE CONCORD ROAD NORTHEAST Concord, NC')]</value>
+      <webElementGuid>ac467672-6ca5-4c1b-958a-27138dade1f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__153']/div/div/div[3]/ul/li[2]/span/div/span</value>
+      <webElementGuid>27ae65fe-d60f-46bf-bbf3-38f38b7ff2b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

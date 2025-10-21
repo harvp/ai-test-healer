@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Add Data Restrictions Divisions  FDG   _1e78a9</name>
+   <tag></tag>
+   <elementGuidId>abbfc01d-a9d5-4bc5-9a0f-68d5d9df63e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.row.mt-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__BVID__180']/div/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e80c7995-db5a-40dc-a255-8bba9cfab9d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row mt-3</value>
+      <webElementGuid>853a3f0b-76c6-42be-a849-f131071b4b47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Add Data Restrictions Divisions  FDG          FDG   SPG   No Divisions found. Consider changing the search query. List is empty. At least 1 Division is required.BillTos  MEIJER INC         MEIJER INC (Id: MEIJGRA)  No BillTos found. Consider changing the search query. List is empty. Consignees  MEIJER  281          MEIJER  281 (Id: MEIJ281, BillTo: MEIJGRA)   MEIJER  283 (Id: MEIJ283, BillTo: MEIJGRA)   MEIJER  284 (Id: MEIJ284, BillTo: MEIJGRA)   MEIJER 102 (Id: MEIJ102, BillTo: MEIJGRA)   MEIJER 103 (Id: MEIJ103, BillTo: MEIJGRA)   MEIJER 104 (Id: MEIJ104, BillTo: MEIJGRA)   MEIJER 106 (Id: MEIJ106, BillTo: MEIJGRA)   MEIJER 107 (Id: MEIJ107, BillTo: MEIJGRA)   MEIJER 110 (Id: MEIJ110, BillTo: MEIJGRA)   MEIJER 111 (Id: MEIJ111, BillTo: MEIJGRA)   MEIJER 112 (Id: MEIJ112, BillTo: MEIJGRA)   MEIJER 114 (Id: MEIJ114, BillTo: MEIJGRA)   MEIJER 116 (Id: MEIJ116, BillTo: MEIJGRA)   MEIJER 118 (Id: MEIJ118, BillTo: MEIJGRA)   MEIJER 135 (Id: MEIJ135, BillTo: MEIJGRA)   MEIJER 142 (Id: MEIJ142, BillTo: MEIJGRA)   MEIJER 146 CHAMPAIGN (Id: MEIJ146, BillTo: MEIJGRA)   MEIJER 147 (Id: MEIJ147, BillTo: MEIJGRA)   MEIJER 150 (Id: MEIJ150, BillTo: MEIJGRA)   MEIJER 156 (Id: MEIJ156, BillTo: MEIJGRA)   No Consignees found. Consider changing the search query. List is empty. Shippers  BUCKEYE - ARGO          BUCKEYE - ARGO (Id: BUCKARG)   BUCKEYE ROCHESTER (Id: BUCKROC)   BUCKEYE ROCKFORD (Id: BUKROC)   CLYMLOG (Id: CLYMLOG)   No Shippers found. Consider changing the search query. List is empty. Suppliers  Valero Unbranded          Valero Unbranded (Id: VALERO-U)   No Suppliers found. Consider changing the search query. List is empty. Account Of  UNKNOWN         UNKNOWN (Id: UNKNOWN) UNKNOWN (Id: UNKNOWN)  No AccountOfs found. Consider changing the search query. List is empty.  Commodities   85% ETHANOL, 15% NL         85% ETHANOL, 15% NL (Id: E85)  No Commodities found. Consider changing the search query. List is empty.  Subsidaries   10 N Canton Transfer         10 N Canton Transfer 16 PCT C White 20 Advantage Tank 25 Bulk Express 50 Kenan Transport 51 Petro Chemical 52 KAG West 53 Klemm Tank Lines 54 Highland 90 KAG Services Inc 91 KAG Leasing 94 KAG Tank Services 95 KAG Logistics UNKNOWN  No Subsidiaries found. Consider changing the search query. List is empty. Image Permissions Select... Read Only </value>
+      <webElementGuid>91e3b919-5b02-41be-846c-378682644f0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__180&quot;)/div[@class=&quot;mb-3&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row mt-3&quot;]</value>
+      <webElementGuid>4aee1389-fb36-4fcc-83c6-77f02a53800a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__180']/div/div/div/div[3]</value>
+      <webElementGuid>bddcaf59-5a60-4122-ae9e-7d93e30275b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='There are no records to show'])[1]/following::div[1]</value>
+      <webElementGuid>890d1af5-2d4a-44c3-9799-73171eb2c267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/following::div[2]</value>
+      <webElementGuid>d503806c-ac2a-4a68-8081-f52d33f11cc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[3]</value>
+      <webElementGuid>9d455360-e295-4255-b682-3f86edb5c558</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Add Data Restrictions Divisions  FDG          FDG   SPG   No Divisions found. Consider changing the search query. List is empty. At least 1 Division is required.BillTos  MEIJER INC         MEIJER INC (Id: MEIJGRA)  No BillTos found. Consider changing the search query. List is empty. Consignees  MEIJER  281          MEIJER  281 (Id: MEIJ281, BillTo: MEIJGRA)   MEIJER  283 (Id: MEIJ283, BillTo: MEIJGRA)   MEIJER  284 (Id: MEIJ284, BillTo: MEIJGRA)   MEIJER 102 (Id: MEIJ102, BillTo: MEIJGRA)   MEIJER 103 (Id: MEIJ103, BillTo: MEIJGRA)   MEIJER 104 (Id: MEIJ104, BillTo: MEIJGRA)   MEIJER 106 (Id: MEIJ106, BillTo: MEIJGRA)   MEIJER 107 (Id: MEIJ107, BillTo: MEIJGRA)   MEIJER 110 (Id: MEIJ110, BillTo: MEIJGRA)   MEIJER 111 (Id: MEIJ111, BillTo: MEIJGRA)   MEIJER 112 (Id: MEIJ112, BillTo: MEIJGRA)   MEIJER 114 (Id: MEIJ114, BillTo: MEIJGRA)   MEIJER 116 (Id: MEIJ116, BillTo: MEIJGRA)   MEIJER 118 (Id: MEIJ118, BillTo: MEIJGRA)   MEIJER 135 (Id: MEIJ135, BillTo: MEIJGRA)   MEIJER 142 (Id: MEIJ142, BillTo: MEIJGRA)   MEIJER 146 CHAMPAIGN (Id: MEIJ146, BillTo: MEIJGRA)   MEIJER 147 (Id: MEIJ147, BillTo: MEIJGRA)   MEIJER 150 (Id: MEIJ150, BillTo: MEIJGRA)   MEIJER 156 (Id: MEIJ156, BillTo: MEIJGRA)   No Consignees found. Consider changing the search query. List is empty. Shippers  BUCKEYE - ARGO          BUCKEYE - ARGO (Id: BUCKARG)   BUCKEYE ROCHESTER (Id: BUCKROC)   BUCKEYE ROCKFORD (Id: BUKROC)   CLYMLOG (Id: CLYMLOG)   No Shippers found. Consider changing the search query. List is empty. Suppliers  Valero Unbranded          Valero Unbranded (Id: VALERO-U)   No Suppliers found. Consider changing the search query. List is empty. Account Of  UNKNOWN         UNKNOWN (Id: UNKNOWN) UNKNOWN (Id: UNKNOWN)  No AccountOfs found. Consider changing the search query. List is empty.  Commodities   85% ETHANOL, 15% NL         85% ETHANOL, 15% NL (Id: E85)  No Commodities found. Consider changing the search query. List is empty.  Subsidaries   10 N Canton Transfer         10 N Canton Transfer 16 PCT C White 20 Advantage Tank 25 Bulk Express 50 Kenan Transport 51 Petro Chemical 52 KAG West 53 Klemm Tank Lines 54 Highland 90 KAG Services Inc 91 KAG Leasing 94 KAG Tank Services 95 KAG Logistics UNKNOWN  No Subsidiaries found. Consider changing the search query. List is empty. Image Permissions Select... Read Only ' or . = ' Add Data Restrictions Divisions  FDG          FDG   SPG   No Divisions found. Consider changing the search query. List is empty. At least 1 Division is required.BillTos  MEIJER INC         MEIJER INC (Id: MEIJGRA)  No BillTos found. Consider changing the search query. List is empty. Consignees  MEIJER  281          MEIJER  281 (Id: MEIJ281, BillTo: MEIJGRA)   MEIJER  283 (Id: MEIJ283, BillTo: MEIJGRA)   MEIJER  284 (Id: MEIJ284, BillTo: MEIJGRA)   MEIJER 102 (Id: MEIJ102, BillTo: MEIJGRA)   MEIJER 103 (Id: MEIJ103, BillTo: MEIJGRA)   MEIJER 104 (Id: MEIJ104, BillTo: MEIJGRA)   MEIJER 106 (Id: MEIJ106, BillTo: MEIJGRA)   MEIJER 107 (Id: MEIJ107, BillTo: MEIJGRA)   MEIJER 110 (Id: MEIJ110, BillTo: MEIJGRA)   MEIJER 111 (Id: MEIJ111, BillTo: MEIJGRA)   MEIJER 112 (Id: MEIJ112, BillTo: MEIJGRA)   MEIJER 114 (Id: MEIJ114, BillTo: MEIJGRA)   MEIJER 116 (Id: MEIJ116, BillTo: MEIJGRA)   MEIJER 118 (Id: MEIJ118, BillTo: MEIJGRA)   MEIJER 135 (Id: MEIJ135, BillTo: MEIJGRA)   MEIJER 142 (Id: MEIJ142, BillTo: MEIJGRA)   MEIJER 146 CHAMPAIGN (Id: MEIJ146, BillTo: MEIJGRA)   MEIJER 147 (Id: MEIJ147, BillTo: MEIJGRA)   MEIJER 150 (Id: MEIJ150, BillTo: MEIJGRA)   MEIJER 156 (Id: MEIJ156, BillTo: MEIJGRA)   No Consignees found. Consider changing the search query. List is empty. Shippers  BUCKEYE - ARGO          BUCKEYE - ARGO (Id: BUCKARG)   BUCKEYE ROCHESTER (Id: BUCKROC)   BUCKEYE ROCKFORD (Id: BUKROC)   CLYMLOG (Id: CLYMLOG)   No Shippers found. Consider changing the search query. List is empty. Suppliers  Valero Unbranded          Valero Unbranded (Id: VALERO-U)   No Suppliers found. Consider changing the search query. List is empty. Account Of  UNKNOWN         UNKNOWN (Id: UNKNOWN) UNKNOWN (Id: UNKNOWN)  No AccountOfs found. Consider changing the search query. List is empty.  Commodities   85% ETHANOL, 15% NL         85% ETHANOL, 15% NL (Id: E85)  No Commodities found. Consider changing the search query. List is empty.  Subsidaries   10 N Canton Transfer         10 N Canton Transfer 16 PCT C White 20 Advantage Tank 25 Bulk Express 50 Kenan Transport 51 Petro Chemical 52 KAG West 53 Klemm Tank Lines 54 Highland 90 KAG Services Inc 91 KAG Leasing 94 KAG Tank Services 95 KAG Logistics UNKNOWN  No Subsidiaries found. Consider changing the search query. List is empty. Image Permissions Select... Read Only ')]</value>
+      <webElementGuid>f8c01370-5fbf-45de-b41f-e8bd0232f736</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

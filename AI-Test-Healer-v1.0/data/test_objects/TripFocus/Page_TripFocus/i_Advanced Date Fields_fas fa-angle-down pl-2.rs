@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Advanced Date Fields_fas fa-angle-down pl-2</name>
+   <tag></tag>
+   <elementGuidId>d54e66b9-ac0f-47df-bdf7-e1e67851661d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='slide-out-panel-6ca59180-0d1f-506c-4d0d-25cb21f797b5']/div/div[3]/div/h4/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>fa3c0f51-2785-4c3a-b6fd-259afd20b692</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-angle-down pl-2</value>
+      <webElementGuid>22f11d75-7bb5-41da-b0b3-111871e58559</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slide-out-panel-6ca59180-0d1f-506c-4d0d-25cb21f797b5&quot;)/div[@class=&quot;container order-search&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/h4[@class=&quot;card-title&quot;]/span[@class=&quot;pointer&quot;]/i[@class=&quot;fas fa-angle-down pl-2&quot;]</value>
+      <webElementGuid>c10b449f-8ed3-44aa-baa6-689fc3a7383d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slide-out-panel-6ca59180-0d1f-506c-4d0d-25cb21f797b5']/div/div[3]/div/h4/span/i</value>
+      <webElementGuid>e307aa14-9bb4-4c2b-bc78-b9ddb11d194a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/h4/span/i</value>
+      <webElementGuid>008951a3-cab2-4643-b582-e7f492e3d2b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

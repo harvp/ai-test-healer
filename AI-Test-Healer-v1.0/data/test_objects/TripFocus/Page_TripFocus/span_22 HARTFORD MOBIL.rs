@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_22 HARTFORD MOBIL</name>
+   <tag></tag>
+   <elementGuidId>5f1b728a-64ea-46cd-ac3f-66994a967fb5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collapse-basic']/div[2]/div[2]/div/div/div[3]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.multiselect.multiselect--active > div.multiselect__tags > div.multiselect__tags-wrap > span.multiselect__tag</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e160cb76-3826-4b70-9e1c-8df9cd96b8f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>multiselect__tag</value>
+      <webElementGuid>7bb97738-3868-427c-b831-6a6e74d8cf28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value># 22 HARTFORD MOBIL </value>
+      <webElementGuid>05374016-e00f-4aec-849d-b9a7cbc36dfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapse-basic&quot;)/div[@class=&quot;form-row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;mb-3&quot;]/div[@class=&quot;multiselect multiselect--active&quot;]/div[@class=&quot;multiselect__tags&quot;]/div[@class=&quot;multiselect__tags-wrap&quot;]/span[@class=&quot;multiselect__tag&quot;]</value>
+      <webElementGuid>1817d82e-1e16-47b3-865b-c62cbe94fb46</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapse-basic']/div[2]/div[2]/div/div/div[3]/div/span</value>
+      <webElementGuid>065d020f-9e95-4274-8947-5a23bd120c6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery Site'])[1]/following::span[1]</value>
+      <webElementGuid>6ef6dfe5-b3b6-479c-9a9c-4579841e0a90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List is empty.'])[1]/following::span[1]</value>
+      <webElementGuid>e1c681f3-cd9c-4763-9003-fe3b35b98c85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Id: DICCHI, BillTo: CENTRALG)'])[1]/preceding::span[2]</value>
+      <webElementGuid>01c1928f-fef8-4204-9cf1-bd29b17ddc2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div[3]/div/span</value>
+      <webElementGuid>b64dd1a3-575e-4806-9e81-3732eb540e33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '# 22 HARTFORD MOBIL ' or . = '# 22 HARTFORD MOBIL ')]</value>
+      <webElementGuid>5301b6fd-d898-4c87-96f2-03c035d399a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

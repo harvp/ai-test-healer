@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Advanced Date Fields</name>
+   <tag></tag>
+   <elementGuidId>1c8d9b5b-770e-4148-81f7-26552c666996</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='slide-out-panel-e4b61b5d-3e0c-5f7c-82e9-9fe9ae893fcb']/div/div[3]/div/h4/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>044aadbb-5e88-43ee-a41c-57563c57f251</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>392368e5-9420-43a4-8009-236179f4bb89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>collapse-dates</value>
+      <webElementGuid>c9304ca0-c662-43fa-ab58-da619da1c9e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pointer</value>
+      <webElementGuid>be37caf4-da8a-4c70-9a5c-9ba8263206b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Advanced Date Fields </value>
+      <webElementGuid>a5dc7c8a-7654-4335-be49-98ead06f3b06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slide-out-panel-e4b61b5d-3e0c-5f7c-82e9-9fe9ae893fcb&quot;)/div[@class=&quot;container order-search&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/h4[@class=&quot;card-title&quot;]/span[@class=&quot;pointer&quot;]</value>
+      <webElementGuid>0cc5bb33-ec69-4f1e-aef7-d8a878c737c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slide-out-panel-e4b61b5d-3e0c-5f7c-82e9-9fe9ae893fcb']/div/div[3]/div/h4/span</value>
+      <webElementGuid>09665525-56aa-4bd6-8462-93e44e858193</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List is empty.'])[11]/following::span[1]</value>
+      <webElementGuid>0d2ab5d5-138e-4946-8d80-30e006920073</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Commodity Classes found. Consider changing the search query.'])[1]/following::span[2]</value>
+      <webElementGuid>22f770f1-8312-45e5-afde-fecb5ca22e73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipped From'])[1]/preceding::span[1]</value>
+      <webElementGuid>aafc7a09-ee42-4978-b505-a96c21fca042</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipped To'])[1]/preceding::span[1]</value>
+      <webElementGuid>98ba3bf5-f77a-4c7d-a0d7-2ff84d4ecbfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Advanced Date Fields']/parent::*</value>
+      <webElementGuid>a44e814e-b1f2-4899-8c05-e614c3163ab2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/h4/span</value>
+      <webElementGuid>77052107-322d-49bf-b380-98241897d983</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Advanced Date Fields ' or . = ' Advanced Date Fields ')]</value>
+      <webElementGuid>55b116ce-8433-4ccc-a5af-825f2df814c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

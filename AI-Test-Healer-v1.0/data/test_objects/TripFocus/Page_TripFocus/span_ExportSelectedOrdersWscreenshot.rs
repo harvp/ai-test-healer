@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ExportSelectedOrdersWscreenshot</name>
+   <tag></tag>
+   <elementGuidId>94b5be26-926d-4f25-b6b9-a254bbcab5ca</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_TripFocus/span_Export Selected Orders.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_TripFocus/span_Export Selected Orders.png</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/main/div/div[2]/section/div[5]/div/div/div/div/button[2]/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>IMAGE</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9cb15f23-7c28-4caf-a4b4-fa41cdd8f263</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-none d-sm-inline</value>
+      <webElementGuid>2ef970bc-289f-4d5f-b4d0-696da8828015</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Export Selected Orders</value>
+      <webElementGuid>226953fe-498f-498a-8ecc-6d3e8de86fce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/div[2]/section[@class=&quot;container-fluid vld-parent&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;card webview-card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row mb-sm-4&quot;]/div[@class=&quot;col&quot;]/button[@class=&quot;btn mr-1 mr-3-md btn-light&quot;]/span[@class=&quot;d-none d-sm-inline&quot;]</value>
+      <webElementGuid>bd2f5d64-dc47-4bd0-8997-fd2ab71d9137</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4395f89a-3d45-4d55-bb92-ff8988fa7ce9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-none d-sm-inline</value>
+      <webElementGuid>a70ea2ee-424d-4241-973c-5843cc2356bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Export Selected Orders</value>
+      <webElementGuid>b5726cc6-db80-45bb-976b-dd6faa8946a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/div[2]/section[@class=&quot;container-fluid vld-parent&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;card webview-card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row mb-sm-4&quot;]/div[@class=&quot;col&quot;]/button[@class=&quot;btn mr-1 mr-3-md btn-light&quot;]/span[@class=&quot;d-none d-sm-inline&quot;]</value>
+      <webElementGuid>0cb25b47-d120-4f10-9f20-4cc661a1fb18</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/main/div/div[2]/section/div[5]/div/div/div/div/button[2]/span[2]</value>
+      <webElementGuid>a1f241c7-c7b2-46e3-89e1-b03e80fabcf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export'])[1]/following::span[1]</value>
+      <webElementGuid>cb7bf02d-6d62-45df-97d7-b65e998a0291</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear Selected Orders'])[1]/preceding::span[1]</value>
+      <webElementGuid>9faea15f-48c7-4de3-bf2e-5acae5e921fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order #'])[1]/preceding::span[2]</value>
+      <webElementGuid>2c3f3db1-c88c-4ad4-91ab-cf8680017716</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Export Selected Orders']/parent::*</value>
+      <webElementGuid>a41f9a89-5efe-4650-bfae-e01cf15fcfcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span[2]</value>
+      <webElementGuid>ee0c3ef6-8c77-4d7e-858b-55fdb49b6186</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Export Selected Orders' or . = 'Export Selected Orders')]</value>
+      <webElementGuid>fd207033-8e4c-4bce-85b0-18f2dcf7cbf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/main/div/div[2]/section/div[4]/div/div/div[2]/div/button[3]/span[2]</value>
+      <webElementGuid>933c9adc-fa49-443e-9349-de6c4be64edd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]/span[2]</value>
+      <webElementGuid>42e47eb9-2382-4df1-be28-db40e3e438de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

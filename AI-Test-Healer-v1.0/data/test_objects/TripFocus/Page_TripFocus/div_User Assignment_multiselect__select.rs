@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_User Assignment_multiselect__select</name>
+   <tag></tag>
+   <elementGuidId>15499c1a-6cd7-4416-967e-faa7ebef7389</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.multiselect__select</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/main/div/section/div[3]/div/div/div/div/section/div[2]/section/div[3]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f37a347a-e93e-4cf7-ace2-46372085f12d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>multiselect__select</value>
+      <webElementGuid>cb3e8c8e-0d2c-470b-9cf4-997e702bd919</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/section[@class=&quot;container vld-parent&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/section[@class=&quot;container mb-4&quot;]/div[@class=&quot;row&quot;]/section[@class=&quot;col row&quot;]/div[@class=&quot;pd-10 col-sm-12 col-md-6 col-lg-6&quot;]/div[1]/div[@class=&quot;multiselect multiselect--active&quot;]/div[@class=&quot;multiselect__select&quot;]</value>
+      <webElementGuid>68f99640-27ae-4087-81c2-9917f6543d03</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/main/div/section/div[3]/div/div/div/div/section/div[2]/section/div[3]/div/div/div</value>
+      <webElementGuid>70770563-8bc3-4ac2-b770-404fa0a69071</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/section/div[3]/div/div/div</value>
+      <webElementGuid>bb9f9665-ad9a-4545-8ee3-3ea638aead50</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

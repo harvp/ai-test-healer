@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AA_Test</name>
+   <tag></tag>
+   <elementGuidId>859c70a1-c744-438a-a057-0e9528c0bde4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.row.align-items-center > div.col-sm-6.col-md-4.col-lg-4</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='slide-out-panel-40480c35-21d2-f6b9-3344-41e7206d39ff']/section/div[4]/div/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>46945600-bd6c-46eb-a7db-03347df00c40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-sm-6 col-md-4 col-lg-4</value>
+      <webElementGuid>72b563f9-36ed-43b1-81c9-f4b5bec8c80f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> AA_Test </value>
+      <webElementGuid>717f1933-5645-4374-8d7a-fedda05d707d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slide-out-panel-40480c35-21d2-f6b9-3344-41e7206d39ff&quot;)/section[@class=&quot;container&quot;]/div[@class=&quot;row card-row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;card card-style&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row align-items-center&quot;]/div[@class=&quot;col-sm-6 col-md-4 col-lg-4&quot;]</value>
+      <webElementGuid>19f91028-586c-40c3-b187-d8f98d1c7c74</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slide-out-panel-40480c35-21d2-f6b9-3344-41e7206d39ff']/section/div[4]/div/div/div/div/div/div</value>
+      <webElementGuid>7b1b82b4-e375-4291-9c7a-eea7a44f03fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery Site'])[2]/following::div[7]</value>
+      <webElementGuid>95abc306-1e3f-40bb-a7a7-ce239ac57bbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bill To'])[1]/following::div[8]</value>
+      <webElementGuid>70d98162-1f8a-43ca-9cba-56d713af6b6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CARY OIL CO'])[1]/preceding::div[1]</value>
+      <webElementGuid>6740a671-5081-440b-9e8a-87abecd0881c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AA_Test'])[2]/preceding::div[3]</value>
+      <webElementGuid>e89cd61e-be1a-4dd9-b469-572502a0e970</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='AA_Test']/parent::*</value>
+      <webElementGuid>1de864b9-f939-46c4-8cd2-e52aeb4a2de5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div/div</value>
+      <webElementGuid>3c5e07aa-0ce8-4b05-9b88-9537ce4366e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' AA_Test ' or . = ' AA_Test ')]</value>
+      <webElementGuid>95aaf56f-be3c-419b-89af-32cdc5119471</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

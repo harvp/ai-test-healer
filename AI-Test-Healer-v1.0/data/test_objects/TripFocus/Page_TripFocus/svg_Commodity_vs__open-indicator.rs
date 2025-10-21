@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Commodity_vs__open-indicator</name>
+   <tag></tag>
+   <elementGuidId>949fa66b-86e6-41ff-af71-dcf60ac0c0e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ddlCommodity > div.vs__dropdown-toggle > div.vs__actions > svg.vs__open-indicator</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Commodity'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>a624404f-4407-43a5-b055-f0d212bda445</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>c27103a3-b1cc-4260-8c20-5c26b9d58f40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>14</value>
+      <webElementGuid>25b569d1-c4ab-41b4-a77d-2e0f474ed27a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>10</value>
+      <webElementGuid>4f152dba-0bde-4ed8-9e87-1a74e8e05439</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>7a19632d-5347-4066-b2c1-d50ed8626a47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vs__open-indicator</value>
+      <webElementGuid>8ddf7153-3d67-4892-8df7-bfee0fccba68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ddlCommodity&quot;)/div[@class=&quot;vs__dropdown-toggle&quot;]/div[@class=&quot;vs__actions&quot;]/svg[@class=&quot;vs__open-indicator&quot;]</value>
+      <webElementGuid>077484c4-1a7b-40d5-81a4-e38312b87cd9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Commodity'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>44c7321a-4b05-4af6-9702-aa52bb78a22b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show Advanced Options'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>9745312d-c073-47b2-818b-9724eadcb6c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[2]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>c7d48a2a-9473-4c36-b625-c4c3f0b5f7a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#2 Diesel, Ultra Low Sulfur, Clear'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>e93f6ce0-8a1d-4f83-a52c-26c99cd61f1e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

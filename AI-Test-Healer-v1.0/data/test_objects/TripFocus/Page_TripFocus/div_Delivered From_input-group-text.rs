@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Delivered From_input-group-text</name>
+   <tag></tag>
+   <elementGuidId>894e4766-87b6-4a7e-bbfe-7b2ebc47a9e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.input-group-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[@id='__BVID__212']/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>384b43ab-7ce3-4a76-b512-4919950d306e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-group-text</value>
+      <webElementGuid>1380d4a1-a1df-4ccd-8732-8d0692e4732b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__212&quot;)/div[@class=&quot;bv-no-focus-ring&quot;]/div[@class=&quot;input-group has-feedback has-clear&quot;]/div[@class=&quot;input-group-append&quot;]/div[@class=&quot;input-group-text&quot;]</value>
+      <webElementGuid>34cd25f8-5dee-4b8d-92b2-f15a110ee8c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='__BVID__212']/div/div/div/div</value>
+      <webElementGuid>b020817f-d3fc-4c8b-aed2-dae1cad870a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivered From'])[1]/following::div[5]</value>
+      <webElementGuid>5d6ee16d-d887-4c6f-b116-7bf91ef2ed57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List is empty.'])[2]/following::div[7]</value>
+      <webElementGuid>398dd1d0-bcb0-4555-b858-241dc8954b43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivered To'])[1]/preceding::div[1]</value>
+      <webElementGuid>74358711-f01b-4448-83cc-52d99a758d81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Advanced Search Fields'])[1]/preceding::div[7]</value>
+      <webElementGuid>a87d8f8a-5055-47a4-aa72-0dbad8f187a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/div/div/div/div</value>
+      <webElementGuid>f8b60fa1-b17d-4a79-853c-4be550c09a8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

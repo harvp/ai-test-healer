@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Shipper</name>
+   <tag></tag>
+   <elementGuidId>d9bd2151-d79e-4146-a5bf-e06efef7c426</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.pd-10.col-sm-6.col-md-4.col-lg-4 > label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='slide-out-panel-3529a79e-97a6-b100-3f70-f7f5727f49ac']/section/div[3]/div/div[2]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>e22183ad-5479-428e-baff-bb28db0c524a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shipper</value>
+      <webElementGuid>26c485cd-71cd-48b0-8da8-3d938435e7ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slide-out-panel-3529a79e-97a6-b100-3f70-f7f5727f49ac&quot;)/section[@class=&quot;container grey-background&quot;]/div[@class=&quot;card card-box-shadow&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row pd-10&quot;]/div[@class=&quot;pd-10 col-sm-6 col-md-4 col-lg-4&quot;]/label[1]</value>
+      <webElementGuid>0f4e3c9d-7ebb-466b-8cc6-51c5b314492e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slide-out-panel-3529a79e-97a6-b100-3f70-f7f5727f49ac']/section/div[3]/div/div[2]/div/label</value>
+      <webElementGuid>d4356419-cd32-4d7a-bfa8-f4d85c078f66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show Basic Options'])[1]/following::label[1]</value>
+      <webElementGuid>fffcc372-e3aa-49fd-808b-159f659d2145</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[1]/following::label[1]</value>
+      <webElementGuid>9f54261e-8010-43df-ac63-e84134898c8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[2]/preceding::label[1]</value>
+      <webElementGuid>77edea4d-6878-4994-88dc-c98f32adcf1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Supplier'])[2]/preceding::label[1]</value>
+      <webElementGuid>7027fb93-cae7-4708-9acb-28884206a851</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/label</value>
+      <webElementGuid>ddd26e29-b430-4eed-b65e-1029da2dde9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Shipper' or . = 'Shipper')]</value>
+      <webElementGuid>39a80096-2f08-4d01-9e88-7de6921e50a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

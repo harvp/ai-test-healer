@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_K1 - Kerosene_fa fa-edit fa-lg text-info icon</name>
+   <tag></tag>
+   <elementGuidId>6dd4553b-7f86-4d3f-919a-798002dec7c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='__BVID__232']/tbody/tr[2]/td[7]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>d0cc3100-35da-48ca-b02f-d35c89714faa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-edit fa-lg text-info icon</value>
+      <webElementGuid>f6fd5dbf-cfa5-454d-a587-452995a95db3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__232&quot;)/tbody[1]/tr[2]/td[7]/i[@class=&quot;fa fa-edit fa-lg text-info icon&quot;]</value>
+      <webElementGuid>2e67a277-517c-41d3-832a-4fd138fd8dd8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='__BVID__232']/tbody/tr[2]/td[7]/i</value>
+      <webElementGuid>53d5e225-1c64-4b74-a751-e836254a7fc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[7]/i</value>
+      <webElementGuid>52fe5c70-2ac0-4712-8701-0abb51cb09a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
